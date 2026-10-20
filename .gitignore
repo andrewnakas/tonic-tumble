@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.z64
+*.n64
+*.v64
+*.zip
+baserom*
+__pycache__/
+*.pyc
+*.z64
+spec_local/
+start.cmd
+games/drmario64/voices/_raw/

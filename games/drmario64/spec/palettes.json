@@ -1,0 +1,1574 @@
+{
+"mess_panel_tex": {
+"off": 464328,
+"size": 512
+},
+"graphbin/etc_01": {
+"off": 1975328,
+"size": 512
+},
+"graphbin/etc_02": {
+"off": 1976944,
+"size": 512
+},
+"graphbin/etc_03": {
+"off": 1979072,
+"size": 512
+},
+"graphbin/etc_05": {
+"off": 1985088,
+"size": 512
+},
+"graphbin/etc_10": {
+"off": 2012368,
+"size": 512
+},
+"graphbin/etc_11": {
+"off": 2013408,
+"size": 512
+},
+"graphbin/etc_12": {
+"off": 2014448,
+"size": 512
+},
+"lws/D_050000D0": {
+"off": 2015496,
+"size": 32
+},
+"lws/D_05000420": {
+"off": 2016344,
+"size": 32
+},
+"lws/D_05000740": {
+"off": 2017144,
+"size": 32
+},
+"lws/D_05000A70": {
+"off": 2017960,
+"size": 32
+},
+"lws/D_05001A18": {
+"off": 2021968,
+"size": 32
+},
+"lws/D_05001DB8": {
+"off": 2022896,
+"size": 32
+},
+"lws/D_05002128": {
+"off": 2023776,
+"size": 32
+},
+"lws/D_050024C8": {
+"off": 2024704,
+"size": 32
+},
+"lws/D_050034E0": {
+"off": 2028824,
+"size": 32
+},
+"lws/D_05003810": {
+"off": 2029640,
+"size": 32
+},
+"lws/D_05003B40": {
+"off": 2030456,
+"size": 32
+},
+"lws/D_05003E80": {
+"off": 2031288,
+"size": 32
+},
+"lws/D_050044B0": {
+"off": 2032872,
+"size": 32
+},
+"lws/D_05004830": {
+"off": 2033768,
+"size": 32
+},
+"lws/D_05004BB0": {
+"off": 2034664,
+"size": 32
+},
+"lws/D_05004F40": {
+"off": 2035576,
+"size": 32
+},
+"lws/D_050056D8": {
+"off": 2037520,
+"size": 32
+},
+"lws/D_05005BF0": {
+"off": 2038824,
+"size": 32
+},
+"lws/D_05005E90": {
+"off": 2039496,
+"size": 32
+},
+"lws/D_050068F8": {
+"off": 2042160,
+"size": 32
+},
+"lws/D_05006D50": {
+"off": 2043272,
+"size": 32
+},
+"lws/D_05006FC0": {
+"off": 2043896,
+"size": 32
+},
+"lws/D_05007A28": {
+"off": 2046080,
+"size": 512
+},
+"lws/D_05007FD0": {
+"off": 2047528,
+"size": 512
+},
+"lws/D_05008440": {
+"off": 2048664,
+"size": 512
+},
+"lws/D_05008A00": {
+"off": 2050136,
+"size": 512
+},
+"lws/D_05008E80": {
+"off": 2051288,
+"size": 512
+},
+"lws/D_05009360": {
+"off": 2052536,
+"size": 512
+},
+"lws/D_0500A328": {
+"off": 2056576,
+"size": 512
+},
+"lws/D_0500AD28": {
+"off": 2059136,
+"size": 512
+},
+"lws/D_0500B478": {
+"off": 2061008,
+"size": 512
+},
+"lws/D_0500BBC8": {
+"off": 2062880,
+"size": 512
+},
+"lws/D_0500CB10": {
+"off": 2066792,
+"size": 512
+},
+"lws/D_0500D618": {
+"off": 2069616,
+"size": 512
+},
+"lws/D_0500E0C0": {
+"off": 2072344,
+"size": 512
+},
+"lws/D_0500EB70": {
+"off": 2075080,
+"size": 512
+},
+"lws/D_0500F4C0": {
+"off": 2077464,
+"size": 512
+},
+"lws/D_0500FFA0": {
+"off": 2080248,
+"size": 512
+},
+"lws/D_05010A60": {
+"off": 2083000,
+"size": 512
+},
+"lws/D_050114A0": {
+"off": 2085624,
+"size": 512
+},
+"lws/D_05011DF0": {
+"off": 2088008,
+"size": 512
+},
+"lws/D_05012730": {
+"off": 2090376,
+"size": 512
+},
+"lws/D_05013BD0": {
+"off": 2095656,
+"size": 512
+},
+"lws/D_05014F18": {
+"off": 2101072,
+"size": 32
+},
+"lws/D_05015538": {
+"off": 2102640,
+"size": 32
+},
+"lws/D_050167E0": {
+"off": 2107416,
+"size": 32
+},
+"lws/D_05017798": {
+"off": 2111440,
+"size": 32
+},
+"lws/D_05017DC8": {
+"off": 2113024,
+"size": 32
+},
+"lws/D_05018490": {
+"off": 2114760,
+"size": 32
+},
+"menu_bg_D_05000228": {
+"off": 2128584,
+"size": 512
+},
+"menu_bg2_D_05000228": {
+"off": 2143576,
+"size": 512
+},
+"coffee01_D_05000048": {
+"off": 2158568,
+"size": 32
+},
+"coffee01_D_050006A8": {
+"off": 2160200,
+"size": 32
+},
+"coffee01_D_050007C8": {
+"off": 2160488,
+"size": 32
+},
+"coffee01_D_05000FE8": {
+"off": 2162568,
+"size": 32
+},
+"coffee01_D_05001808": {
+"off": 2164648,
+"size": 32
+},
+"coffee01_D_05002028": {
+"off": 2166728,
+"size": 32
+},
+"coffee01_D_05002848": {
+"off": 2168808,
+"size": 32
+},
+"coffee01_D_05003068": {
+"off": 2170888,
+"size": 32
+},
+"coffee01_D_05003888": {
+"off": 2172968,
+"size": 32
+},
+"coffee01_D_050040A8": {
+"off": 2175048,
+"size": 32
+},
+"coffee01_D_050048C8": {
+"off": 2177128,
+"size": 32
+},
+"coffee01_D_050050E8": {
+"off": 2179208,
+"size": 32
+},
+"coffee01_D_05005908": {
+"off": 2181288,
+"size": 32
+},
+"coffee01_D_05005D08": {
+"off": 2181832,
+"size": 512
+},
+"coffee01_D_05006508": {
+"off": 2184360,
+"size": 32
+},
+"coffee01_D_05006928": {
+"off": 2185416,
+"size": 32
+},
+"coffee01_D_05006D48": {
+"off": 2186472,
+"size": 32
+},
+"coffee01_D_05007568": {
+"off": 2188552,
+"size": 32
+},
+"coffee01_D_05007788": {
+"off": 2189096,
+"size": 32
+},
+"coffee01_D_050079A8": {
+"off": 2189640,
+"size": 32
+},
+"coffee01_D_05007E28": {
+"off": 2190792,
+"size": 32
+},
+"coffee01_D_05008248": {
+"off": 2191848,
+"size": 32
+},
+"coffee01_D_050088A8": {
+"off": 2193480,
+"size": 32
+},
+"coffee01_D_05008F08": {
+"off": 2195112,
+"size": 32
+},
+"coffee01_D_05009128": {
+"off": 2195656,
+"size": 32
+},
+"coffee01_D_05009788": {
+"off": 2197288,
+"size": 32
+},
+"coffee01_D_050099A8": {
+"off": 2197832,
+"size": 32
+},
+"coffee01_D_05009DA8": {
+"off": 2198376,
+"size": 512
+},
+"coffee01_D_0500A5C0": {
+"off": 2200928,
+"size": 32
+},
+"coffee01_D_0500ADB0": {
+"off": 2202960,
+"size": 32
+},
+"coffee01_D_0500B5A0": {
+"off": 2204992,
+"size": 32
+},
+"coffee01_D_0500BD90": {
+"off": 2207024,
+"size": 32
+},
+"coffee01_D_0500C580": {
+"off": 2209056,
+"size": 32
+},
+"coffee01_D_0500CDA0": {
+"off": 2211136,
+"size": 32
+},
+"coffee01_D_0500D590": {
+"off": 2213168,
+"size": 32
+},
+"coffee01_D_0500D7B0": {
+"off": 2213712,
+"size": 32
+},
+"coffee01_D_0500D9D0": {
+"off": 2214256,
+"size": 32
+},
+"coffee01_D_0500DBF0": {
+"off": 2214800,
+"size": 32
+},
+"coffee01_D_0500DE10": {
+"off": 2215344,
+"size": 32
+},
+"coffee01_D_0500E030": {
+"off": 2215888,
+"size": 32
+},
+"coffee01_D_0500E4B0": {
+"off": 2217040,
+"size": 32
+},
+"coffee01_D_0500E930": {
+"off": 2218192,
+"size": 32
+},
+"coffee01_D_0500EFE0": {
+"off": 2219904,
+"size": 32
+},
+"coffee01_D_0500F3E0": {
+"off": 2220448,
+"size": 512
+},
+"coffee01_D_0500FC20": {
+"off": 2222560,
+"size": 512
+},
+"coffee01_D_05010460": {
+"off": 2224672,
+"size": 512
+},
+"coffee01_D_05010CA0": {
+"off": 2226784,
+"size": 512
+},
+"D_05000298": {
+"off": 2314632,
+"size": 512
+},
+"D_050004F8": {
+"off": 2315720,
+"size": 32
+},
+"D_05000918": {
+"off": 2316776,
+"size": 32
+},
+"D_05000A38": {
+"off": 2317064,
+"size": 32
+},
+"D_05000D38": {
+"off": 2317352,
+"size": 512
+},
+"D_050014D8": {
+"off": 2319784,
+"size": 32
+},
+"D_050015F8": {
+"off": 2320072,
+"size": 32
+},
+"D_05002110": {
+"off": 2322912,
+"size": 32
+},
+"D_05002930": {
+"off": 2324992,
+"size": 32
+},
+"D_05003150": {
+"off": 2327072,
+"size": 32
+},
+"D_05003970": {
+"off": 2329152,
+"size": 32
+},
+"D_05003D90": {
+"off": 2330208,
+"size": 32
+},
+"D_050045B0": {
+"off": 2332288,
+"size": 32
+},
+"D_050055B0": {
+"off": 2335904,
+"size": 512
+},
+"D_05005DB0": {
+"off": 2338432,
+"size": 32
+},
+"D_05006DF0": {
+"off": 2342592,
+"size": 32
+},
+"D_05007608": {
+"off": 2344664,
+"size": 32
+},
+"D_05007E20": {
+"off": 2346736,
+"size": 32
+},
+"D_05008638": {
+"off": 2348808,
+"size": 32
+},
+"D_05009030": {
+"off": 2350880,
+"size": 512
+},
+"D_05009438": {
+"off": 2352392,
+"size": 32
+},
+"D_05009C58": {
+"off": 2354472,
+"size": 32
+},
+"D_0500A478": {
+"off": 2356552,
+"size": 32
+},
+"D_0500AC98": {
+"off": 2358632,
+"size": 32
+},
+"D_0500B168": {
+"off": 2359864,
+"size": 32
+},
+"D_0500B638": {
+"off": 2361096,
+"size": 32
+},
+"D_0500BE58": {
+"off": 2363176,
+"size": 32
+},
+"D_0500C678": {
+"off": 2365256,
+"size": 32
+},
+"D_0500CE98": {
+"off": 2367336,
+"size": 32
+},
+"D_0500D6B8": {
+"off": 2369416,
+"size": 32
+},
+"D_0500DED8": {
+"off": 2371496,
+"size": 32
+},
+"D_0500E8D8": {
+"off": 2373576,
+"size": 512
+},
+"D_0500F0F8": {
+"off": 2376136,
+"size": 32
+},
+"D_0500F918": {
+"off": 2378216,
+"size": 32
+},
+"D_05010138": {
+"off": 2380296,
+"size": 32
+},
+"D_05010950": {
+"off": 2382368,
+"size": 32
+},
+"D_050124E0": {
+"off": 2389424,
+"size": 32
+},
+"D_05014070": {
+"off": 2396480,
+"size": 32
+},
+"D_05014860": {
+"off": 2398512,
+"size": 32
+},
+"D_05015050": {
+"off": 2400544,
+"size": 32
+},
+"D_05015840": {
+"off": 2402576,
+"size": 32
+},
+"D_05016030": {
+"off": 2404608,
+"size": 32
+},
+"D_050164B0": {
+"off": 2405760,
+"size": 32
+},
+"D_050168D0": {
+"off": 2406816,
+"size": 32
+},
+"D_050170F0": {
+"off": 2408896,
+"size": 32
+},
+"D_05017910": {
+"off": 2410976,
+"size": 32
+},
+"D_05017F70": {
+"off": 2412608,
+"size": 32
+},
+"D_050185D0": {
+"off": 2414240,
+"size": 32
+},
+"D_05018C30": {
+"off": 2415872,
+"size": 32
+},
+"D_05019290": {
+"off": 2417504,
+"size": 32
+},
+"D_05019AB0": {
+"off": 2419584,
+"size": 32
+},
+"D_0501AAF0": {
+"off": 2423744,
+"size": 32
+},
+"D_0501B290": {
+"off": 2425696,
+"size": 32
+},
+"D_0501BA30": {
+"off": 2427648,
+"size": 32
+},
+"D_0501C250": {
+"off": 2429728,
+"size": 32
+},
+"D_0501CC20": {
+"off": 2431760,
+"size": 512
+},
+"D_0501D600": {
+"off": 2434288,
+"size": 512
+},
+"D_0501DFE0": {
+"off": 2436816,
+"size": 512
+},
+"D_0501E9C0": {
+"off": 2439344,
+"size": 512
+},
+"D_0501F3A0": {
+"off": 2441872,
+"size": 512
+},
+"D_0501FD80": {
+"off": 2444400,
+"size": 512
+},
+"D_05020760": {
+"off": 2446928,
+"size": 512
+},
+"D_05021140": {
+"off": 2449456,
+"size": 512
+},
+"D_05021B38": {
+"off": 2452008,
+"size": 512
+},
+"D_05022530": {
+"off": 2454560,
+"size": 512
+},
+"D_05022F10": {
+"off": 2457088,
+"size": 512
+},
+"D_050238F0": {
+"off": 2459616,
+"size": 512
+},
+"D_050269D0": {
+"off": 2472128,
+"size": 512
+},
+"D_050273B0": {
+"off": 2474656,
+"size": 512
+},
+"D_05027D90": {
+"off": 2477184,
+"size": 512
+},
+"D_05028770": {
+"off": 2479712,
+"size": 512
+},
+"D_05029150": {
+"off": 2482240,
+"size": 512
+},
+"D_05029B30": {
+"off": 2484768,
+"size": 512
+},
+"D_0502A510": {
+"off": 2487296,
+"size": 512
+},
+"D_0502AEE0": {
+"off": 2489808,
+"size": 512
+},
+"D_0502B8E0": {
+"off": 2492368,
+"size": 512
+},
+"D_0502C2C0": {
+"off": 2494896,
+"size": 512
+},
+"D_0502CCA0": {
+"off": 2497424,
+"size": 512
+},
+"D_0502D680": {
+"off": 2499952,
+"size": 512
+},
+"D_0502E078": {
+"off": 2502504,
+"size": 512
+},
+"D_0502EA70": {
+"off": 2505056,
+"size": 512
+},
+"D_0502F468": {
+"off": 2507608,
+"size": 512
+},
+"D_0502FD98": {
+"off": 2509960,
+"size": 512
+},
+"D_050305B0": {
+"off": 2512512,
+"size": 32
+},
+"D_05030FB0": {
+"off": 2514592,
+"size": 512
+},
+"D_05031990": {
+"off": 2517120,
+"size": 512
+},
+"D_05032370": {
+"off": 2519648,
+"size": 512
+},
+"D_05032D68": {
+"off": 2522200,
+"size": 512
+},
+"D_05033748": {
+"off": 2524728,
+"size": 512
+},
+"D_050340C8": {
+"off": 2527160,
+"size": 512
+},
+"D_05034AC0": {
+"off": 2529712,
+"size": 512
+},
+"D_05035300": {
+"off": 2531824,
+"size": 512
+},
+"D_05035B90": {
+"off": 2534016,
+"size": 512
+},
+"D_05036420": {
+"off": 2536208,
+"size": 512
+},
+"D_05036BC0": {
+"off": 2538640,
+"size": 32
+},
+"D_050373B0": {
+"off": 2540672,
+"size": 32
+},
+"D_05037BA0": {
+"off": 2542704,
+"size": 32
+},
+"D_05038390": {
+"off": 2544736,
+"size": 32
+},
+"D_0503B2C0": {
+"off": 2556816,
+"size": 32
+},
+"D_0503CEE0": {
+"off": 2564016,
+"size": 32
+},
+"D_0503FAD0": {
+"off": 2574784,
+"size": 512
+},
+"D_050404B0": {
+"off": 2577312,
+"size": 512
+},
+"D_05040E90": {
+"off": 2579840,
+"size": 512
+},
+"D_05041870": {
+"off": 2582368,
+"size": 512
+},
+"D_05042250": {
+"off": 2584896,
+"size": 512
+},
+"D_05042C30": {
+"off": 2587424,
+"size": 512
+},
+"D_050448B0": {
+"off": 2595200,
+"size": 32
+},
+"D_050450D0": {
+"off": 2597280,
+"size": 32
+},
+"D_05048990": {
+"off": 2611808,
+"size": 32
+},
+"D_050497B0": {
+"off": 2614944,
+"size": 512
+},
+"D_0504A190": {
+"off": 2617472,
+"size": 512
+},
+"D_0504AB60": {
+"off": 2619984,
+"size": 512
+},
+"D_0504B4E0": {
+"off": 2622416,
+"size": 512
+},
+"D_0504BEC0": {
+"off": 2624944,
+"size": 512
+},
+"D_0504C8A0": {
+"off": 2627472,
+"size": 512
+},
+"D_0504D280": {
+"off": 2630000,
+"size": 512
+},
+"D_0504DC60": {
+"off": 2632528,
+"size": 512
+},
+"D_0504E640": {
+"off": 2635056,
+"size": 512
+},
+"D_0504EE40": {
+"off": 2637584,
+"size": 32
+},
+"D_0504F660": {
+"off": 2639664,
+"size": 32
+},
+"D_0504FE78": {
+"off": 2641736,
+"size": 32
+},
+"D_05050698": {
+"off": 2643816,
+"size": 32
+},
+"D_050514B8": {
+"off": 2647432,
+"size": 32
+},
+"D_05051CD0": {
+"off": 2649504,
+"size": 32
+},
+"D_050524F0": {
+"off": 2651584,
+"size": 32
+},
+"D_05052D10": {
+"off": 2653664,
+"size": 32
+},
+"D_05053530": {
+"off": 2655744,
+"size": 32
+},
+"D_050539B0": {
+"off": 2656896,
+"size": 32
+},
+"D_05053E30": {
+"off": 2658048,
+"size": 32
+},
+"D_05055A10": {
+"off": 2664704,
+"size": 512
+},
+"D_05056250": {
+"off": 2666816,
+"size": 512
+},
+"D_05056A90": {
+"off": 2668928,
+"size": 512
+},
+"D_050572D0": {
+"off": 2671040,
+"size": 512
+},
+"D_05057B10": {
+"off": 2673152,
+"size": 512
+},
+"D_05058350": {
+"off": 2675264,
+"size": 512
+},
+"D_05058B90": {
+"off": 2677376,
+"size": 512
+},
+"D_050593D0": {
+"off": 2679488,
+"size": 512
+},
+"D_05059C10": {
+"off": 2681600,
+"size": 512
+},
+"D_0505A270": {
+"off": 2683712,
+"size": 32
+},
+"D_0505AA90": {
+"off": 2685792,
+"size": 32
+},
+"D_0505B490": {
+"off": 2687872,
+"size": 512
+},
+"D_0505BBD0": {
+"off": 2689728,
+"size": 512
+},
+"D_0505C310": {
+"off": 2691584,
+"size": 512
+},
+"D_0505CCF0": {
+"off": 2694112,
+"size": 512
+},
+"D_0505D6D0": {
+"off": 2696640,
+"size": 512
+},
+"D_0505E0B0": {
+"off": 2699168,
+"size": 512
+},
+"D_0505EA90": {
+"off": 2701696,
+"size": 512
+},
+"D_0505F470": {
+"off": 2704224,
+"size": 512
+},
+"D_0505FE68": {
+"off": 2706776,
+"size": 512
+},
+"D_05060848": {
+"off": 2709304,
+"size": 512
+},
+"D_05061228": {
+"off": 2711832,
+"size": 512
+},
+"D_05061C20": {
+"off": 2714384,
+"size": 512
+},
+"D_05062420": {
+"off": 2716912,
+"size": 32
+},
+"D_05062660": {
+"off": 2717488,
+"size": 32
+},
+"D_05062A70": {
+"off": 2718528,
+"size": 32
+},
+"D_05062E80": {
+"off": 2719568,
+"size": 32
+},
+"D_05063A70": {
+"off": 2722144,
+"size": 512
+},
+"D_05064360": {
+"off": 2724432,
+"size": 512
+},
+"D_05064C50": {
+"off": 2726720,
+"size": 512
+},
+"D_05065540": {
+"off": 2729008,
+"size": 512
+},
+"D_05065E30": {
+"off": 2731296,
+"size": 512
+},
+"D_05066720": {
+"off": 2733584,
+"size": 512
+},
+"D_05067010": {
+"off": 2735872,
+"size": 512
+},
+"D_05067900": {
+"off": 2738160,
+"size": 512
+},
+"D_050681F0": {
+"off": 2740448,
+"size": 512
+},
+"D_05068AE0": {
+"off": 2742736,
+"size": 512
+},
+"D_050693D0": {
+"off": 2745024,
+"size": 512
+},
+"title_bmp_00": {
+"off": 3547648,
+"size": 512
+},
+"title_bmp_02": {
+"off": 3557344,
+"size": 512
+},
+"waku": {
+"off": 3559024,
+"size": 512
+},
+"waku2_01": {
+"off": 3651600,
+"size": 512
+},
+"waku2_02": {
+"off": 3655328,
+"size": 512
+},
+"bg01": {
+"off": 3681456,
+"size": 512
+},
+"bg02": {
+"off": 3733184,
+"size": 512
+},
+"bg03": {
+"off": 3784912,
+"size": 512
+},
+"bg04": {
+"off": 3836640,
+"size": 512
+},
+"bg05": {
+"off": 3888368,
+"size": 512
+},
+"bg07": {
+"off": 3940096,
+"size": 512
+},
+"bg08": {
+"off": 3991824,
+"size": 512
+},
+"bg09": {
+"off": 4043552,
+"size": 512
+},
+"bg10": {
+"off": 4095280,
+"size": 512
+},
+"bg11": {
+"off": 4147008,
+"size": 512
+},
+"menu_char_titexdata_02_texs_tex": {
+"off": 4203096,
+"size": 512
+},
+"menu_char_titexdata_03_texs_tex": {
+"off": 4206696,
+"size": 512
+},
+"menu_char_titexdata_04_texs_tex": {
+"off": 4209776,
+"size": 512
+},
+"menu_char_titexdata_05_texs_tex": {
+"off": 4212960,
+"size": 512
+},
+"menu_char_titexdata_06_texs_tex": {
+"off": 4265040,
+"size": 512
+},
+"menu_common_titexdata_02_texs_tex": {
+"off": 4269912,
+"size": 32
+},
+"menu_common_menu_options_texs_tex": {
+"off": 4279640,
+"size": 512
+},
+"menu_common_menu_titles_texs_tex": {
+"off": 4400488,
+"size": 512
+},
+"menu_level_titexdata_00_texs_tex": {
+"off": 4433416,
+"size": 32
+},
+"menu_level_titexdata_01_texs_tex": {
+"off": 4433584,
+"size": 512
+},
+"menu_level_titexdata_02_texs_tex": {
+"off": 4460032,
+"size": 512
+},
+"menu_level_titexdata_03_texs_tex": {
+"off": 4472368,
+"size": 512
+},
+"menu_level_titexdata_04_texs_tex": {
+"off": 4481296,
+"size": 512
+},
+"menu_level_titexdata_05_texs_tex": {
+"off": 4510096,
+"size": 512
+},
+"menu_level_titexdata_06_texs_tex": {
+"off": 4535736,
+"size": 512
+},
+"menu_main_titexdata_00_texs_tex": {
+"off": 4537880,
+"size": 512
+},
+"menu_main_titexdata_01_texs_tex": {
+"off": 4581608,
+"size": 512
+},
+"menu_main_titexdata_02_texs_tex": {
+"off": 4589688,
+"size": 512
+},
+"menu_main_titexdata_03_texs_tex": {
+"off": 4600712,
+"size": 512
+},
+"menu_main_titexdata_04_texs_tex": {
+"off": 4614680,
+"size": 512
+},
+"menu_main_titexdata_05_texs_tex": {
+"off": 4631592,
+"size": 512
+},
+"menu_main_titexdata_06_texs_tex": {
+"off": 4651576,
+"size": 512
+},
+"menu_main_titexdata_07_texs_tex": {
+"off": 4661176,
+"size": 32
+},
+"menu_main_titexdata_08_texs_tex": {
+"off": 4661864,
+"size": 512
+},
+"menu_main_titexdata_11_texs_tex": {
+"off": 4679352,
+"size": 512
+},
+"menu_main_titexdata_12_texs_tex": {
+"off": 4690536,
+"size": 512
+},
+"menu_main_titexdata_13_texs_tex": {
+"off": 4692408,
+"size": 512
+},
+"menu_main_titexdata_14_texs_tex": {
+"off": 4694056,
+"size": 512
+},
+"menu_name_titexdata_02_texs_tex": {
+"off": 4696264,
+"size": 512
+},
+"menu_name_titexdata_03_texs_tex": {
+"off": 4734232,
+"size": 512
+},
+"menu_name_titexdata_04_texs_tex": {
+"off": 4734936,
+"size": 512
+},
+"menu_p2_titexdata_00_texs_tex": {
+"off": 4744520,
+"size": 512
+},
+"menu_p2_titexdata_01_texs_tex": {
+"off": 4764808,
+"size": 512
+},
+"menu_p4_titexdata_00_texs_tex": {
+"off": 4785128,
+"size": 512
+},
+"menu_p4_titexdata_01_texs_tex": {
+"off": 4810856,
+"size": 512
+},
+"menu_p4_titexdata_02_texs_tex": {
+"off": 4824456,
+"size": 512
+},
+"menu_rank_titexdata_00_texs_tex": {
+"off": 4841128,
+"size": 512
+},
+"menu_rank_titexdata_01_texs_tex": {
+"off": 4851736,
+"size": 512
+},
+"menu_rank_titexdata_02_texs_tex": {
+"off": 4856296,
+"size": 512
+},
+"menu_rank_titexdata_03_texs_tex": {
+"off": 4860280,
+"size": 512
+},
+"menu_rank_titexdata_04_texs_tex": {
+"off": 4862856,
+"size": 512
+},
+"menu_rank_titexdata_05_texs_tex": {
+"off": 4865432,
+"size": 512
+},
+"menu_rank_titexdata_06_texs_tex": {
+"off": 4870056,
+"size": 32
+},
+"menu_rank_titexdata_07_texs_tex": {
+"off": 4870232,
+"size": 512
+},
+"menu_rank_titexdata_08_texs_tex": {
+"off": 4876808,
+"size": 512
+},
+"menu_setup_titexdata_14_texs_tex": {
+"off": 4924760,
+"size": 512
+},
+"menu_setup_titexdata_15_texs_tex": {
+"off": 4951208,
+"size": 512
+},
+"menu_setup_titexdata_16_texs_tex": {
+"off": 4952696,
+"size": 32
+},
+"menu_setup_titexdata_17_texs_tex": {
+"off": 4952936,
+"size": 512
+},
+"menu_setup_titexdata_18_texs_tex": {
+"off": 4957688,
+"size": 512
+},
+"menu_setup_titexdata_19_texs_tex": {
+"off": 4985880,
+"size": 512
+},
+"menu_story_titexdata_02_texs_tex": {
+"off": 5000344,
+"size": 512
+},
+"menu_story_titexdata_03_texs_tex": {
+"off": 5012392,
+"size": 512
+},
+"menu_story_titexdata_04_texs_tex": {
+"off": 5024440,
+"size": 512
+},
+"menu_story_titexdata_05_texs_tex": {
+"off": 5036488,
+"size": 32
+},
+"menu_story_titexdata_06_texs_tex": {
+"off": 5036664,
+"size": 512
+},
+"menu_story_titexdata_07_texs_tex": {
+"off": 5086440,
+"size": 32
+},
+"menu_story_titexdata_08_texs_tex": {
+"off": 5086808,
+"size": 32
+},
+"menu_cont_titexdata_01_texs_tex": {
+"off": 5117224,
+"size": 512
+},
+"menu_cont_titexdata_02_texs_tex": {
+"off": 5120952,
+"size": 512
+},
+"game_p1_titexdata_00_texs_tex": {
+"off": 5261896,
+"size": 512
+},
+"game_p1_titexdata_01_texs_tex": {
+"off": 5282392,
+"size": 32
+},
+"game_p4_titexdata_00_texs_tex": {
+"off": 5407672,
+"size": 32
+},
+"game_p4_titexdata_01_texs_tex": {
+"off": 5413680,
+"size": 32
+},
+"game_p4_titexdata_02_texs_tex": {
+"off": 5418272,
+"size": 512
+},
+"game_p4_titexdata_03_texs_tex": {
+"off": 5427920,
+"size": 512
+},
+"game_p4_titexdata_04_texs_tex": {
+"off": 5437568,
+"size": 512
+},
+"game_p4_titexdata_05_texs_tex": {
+"off": 5447216,
+"size": 512
+},
+"game_p4_titexdata_06_texs_tex": {
+"off": 5454656,
+"size": 512
+},
+"game_p4_titexdata_07_texs_tex": {
+"off": 5462096,
+"size": 512
+},
+"game_p4_titexdata_08_texs_tex": {
+"off": 5469536,
+"size": 512
+},
+"game_p4_titexdata_09_texs_tex": {
+"off": 5473520,
+"size": 512
+},
+"game_ls_titexdata_15_texs_tex": {
+"off": 5668504,
+"size": 512
+},
+"game_ls_titexdata_16_texs_tex": {
+"off": 5678632,
+"size": 512
+},
+"game_ls_titexdata_17_texs_tex": {
+"off": 5688760,
+"size": 512
+},
+"game_ls_titexdata_18_texs_tex": {
+"off": 5698888,
+"size": 512
+},
+"game_ls_titexdata_19_texs_tex": {
+"off": 5713816,
+"size": 512
+},
+"game_ls_titexdata_20_texs_tex": {
+"off": 5728744,
+"size": 512
+},
+"game_ls_titexdata_21_texs_tex": {
+"off": 5743672,
+"size": 32
+},
+"game_item_titexdata_00_texs_tex": {
+"off": 5744424,
+"size": 32
+},
+"game_item_titexdata_01_texs_tex": {
+"off": 5745496,
+"size": 32
+},
+"game_item_titexdata_02_texs_tex": {
+"off": 5746568,
+"size": 32
+},
+"game_item_titexdata_03_texs_tex": {
+"off": 5748376,
+"size": 32
+},
+"anime_a_titexdata_00_texs_tex": {
+"off": 5751152,
+"size": 32
+},
+"anime_b_titexdata_00_texs_tex": {
+"off": 5817568,
+"size": 32
+},
+"anime_c_titexdata_00_texs_tex": {
+"off": 5842400,
+"size": 32
+},
+"anime_d_titexdata_00_texs_tex": {
+"off": 5912016,
+"size": 32
+},
+"anime_e_titexdata_00_texs_tex": {
+"off": 5947392,
+"size": 32
+},
+"anime_f_titexdata_00_texs_tex": {
+"off": 5988528,
+"size": 32
+},
+"anime_g_titexdata_00_texs_tex": {
+"off": 6016256,
+"size": 32
+},
+"anime_h_titexdata_00_texs_tex": {
+"off": 6070576,
+"size": 32
+},
+"anime_i_titexdata_00_texs_tex": {
+"off": 6092912,
+"size": 32
+},
+"anime_j_titexdata_00_texs_tex": {
+"off": 6130704,
+"size": 32
+},
+"anime_k_titexdata_00_texs_tex": {
+"off": 6174784,
+"size": 32
+},
+"anime_l_titexdata_00_texs_tex": {
+"off": 6195696,
+"size": 32
+},
+"anime_m_titexdata_00_texs_tex": {
+"off": 6248128,
+"size": 32
+},
+"anime_n_titexdata_00_texs_tex": {
+"off": 6275616,
+"size": 32
+},
+"anime_o_titexdata_00_texs_tex": {
+"off": 6312352,
+"size": 32
+},
+"anime_mario_titexdata_00_texs_tex": {
+"off": 6339840,
+"size": 512
+},
+"anime_virus_b_titexdata_00_texs_tex": {
+"off": 6526096,
+"size": 32
+},
+"anime_virus_r_titexdata_00_texs_tex": {
+"off": 6533248,
+"size": 32
+},
+"anime_virus_y_titexdata_00_texs_tex": {
+"off": 6538784,
+"size": 32
+},
+"tutorial_kasa_titexdata_06_texs_tex": {
+"off": 6557656,
+"size": 32
+},
+"tutorial_kasa_titexdata_07_texs_tex": {
+"off": 6557832,
+"size": 512
+},
+"tutorial_kasa_titexdata_08_texs_tex": {
+"off": 6572312,
+"size": 512
+}
+}

@@ -1,0 +1,612 @@
+{
+"segments": [
+{
+"name": "",
+"cstart": 0,
+"cend": 72304,
+"compressed": false,
+"ustart": 0,
+"ulen": 72304
+},
+{
+"name": "main_segment",
+"cstart": 72304,
+"cend": 326016,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 72304,
+"ulen": 563696
+},
+{
+"name": "",
+"cstart": 326016,
+"cend": 1660448,
+"compressed": false,
+"ustart": 636000,
+"ulen": 1334432
+},
+{
+"name": "segment_game_etc",
+"cstart": 1660448,
+"cend": 1707328,
+"level": 6,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 1970432,
+"ulen": 158104
+},
+{
+"name": "segment_menu_bg",
+"cstart": 1707328,
+"cend": 1712320,
+"level": 6,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 2128544,
+"ulen": 14992
+},
+{
+"name": "segment_menu_bg2",
+"cstart": 1712320,
+"cend": 1717776,
+"level": 6,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 2143536,
+"ulen": 14992
+},
+{
+"name": "segment_coffee01",
+"cstart": 1717776,
+"cend": 1773152,
+"level": 6,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 2158528,
+"ulen": 155952
+},
+{
+"name": "segment_title_all",
+"cstart": 1773152,
+"cend": 2170384,
+"level": 6,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 2314480,
+"ulen": 1233152
+},
+{
+"name": "segment_title_bmp",
+"cstart": 2170384,
+"cend": 2173728,
+"level": 6,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 3547632,
+"ulen": 11376
+},
+{
+"name": "segment_waku",
+"cstart": 2173728,
+"cend": 2208032,
+"level": 6,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 3559008,
+"ulen": 79248
+},
+{
+"name": "segment_waku2",
+"cstart": 2208032,
+"cend": 2225872,
+"level": 6,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 3638256,
+"ulen": 43184
+},
+{
+"name": "segment_story_bg01",
+"cstart": 2225872,
+"cend": 2254016,
+"level": 6,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 3681440,
+"ulen": 51728
+},
+{
+"name": "segment_story_bg02",
+"cstart": 2254016,
+"cend": 2284064,
+"level": 6,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 3733168,
+"ulen": 51728
+},
+{
+"name": "segment_story_bg03",
+"cstart": 2284064,
+"cend": 2313456,
+"level": 6,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 3784896,
+"ulen": 51728
+},
+{
+"name": "segment_story_bg04",
+"cstart": 2313456,
+"cend": 2340832,
+"level": 6,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 3836624,
+"ulen": 51728
+},
+{
+"name": "segment_story_bg05",
+"cstart": 2340832,
+"cend": 2359648,
+"level": 6,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 3888352,
+"ulen": 51728
+},
+{
+"name": "segment_story_bg07",
+"cstart": 2359648,
+"cend": 2382560,
+"level": 6,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 3940080,
+"ulen": 51728
+},
+{
+"name": "segment_story_bg08",
+"cstart": 2382560,
+"cend": 2418208,
+"level": 6,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 3991808,
+"ulen": 51728
+},
+{
+"name": "segment_story_bg09",
+"cstart": 2418208,
+"cend": 2455152,
+"level": 6,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 4043536,
+"ulen": 51728
+},
+{
+"name": "segment_story_bg10",
+"cstart": 2455152,
+"cend": 2483856,
+"level": 6,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 4095264,
+"ulen": 51728
+},
+{
+"name": "segment_story_bg11",
+"cstart": 2483856,
+"cend": 2516112,
+"level": 6,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 4146992,
+"ulen": 51728
+},
+{
+"name": "segment_menu_char",
+"cstart": 2516112,
+"cend": 2555376,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 4198720,
+"ulen": 68576
+},
+{
+"name": "segment_menu_common",
+"cstart": 2555376,
+"cend": 2597648,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 4267296,
+"ulen": 166096
+},
+{
+"name": "segment_menu_level",
+"cstart": 2597648,
+"cend": 2647760,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 4433392,
+"ulen": 104464
+},
+{
+"name": "segment_menu_main",
+"cstart": 2647760,
+"cend": 2724032,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 4537856,
+"ulen": 157968
+},
+{
+"name": "segment_menu_name",
+"cstart": 2724032,
+"cend": 2743840,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 4695824,
+"ulen": 48672
+},
+{
+"name": "segment_menu_p2",
+"cstart": 2743840,
+"cend": 2761776,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 4744496,
+"ulen": 40608
+},
+{
+"name": "segment_menu_p4",
+"cstart": 2761776,
+"cend": 2790336,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 4785104,
+"ulen": 56000
+},
+{
+"name": "segment_menu_rank",
+"cstart": 2790336,
+"cend": 2816416,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 4841104,
+"ulen": 37648
+},
+{
+"name": "segment_menu_setup",
+"cstart": 2816416,
+"cend": 2872944,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 4878752,
+"ulen": 116416
+},
+{
+"name": "segment_menu_story",
+"cstart": 2872944,
+"cend": 2921984,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 4995168,
+"ulen": 111168
+},
+{
+"name": "segment_menu_cont",
+"cstart": 2921984,
+"cend": 2933072,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 5106336,
+"ulen": 33984
+},
+{
+"name": "segment_menu_kasa",
+"cstart": 2933072,
+"cend": 2943568,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 5140320,
+"ulen": 58896
+},
+{
+"name": "segment_game_al",
+"cstart": 2943568,
+"cend": 2965120,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 5199216,
+"ulen": 62656
+},
+{
+"name": "segment_game_p1",
+"cstart": 2965120,
+"cend": 2979888,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 5261872,
+"ulen": 71360
+},
+{
+"name": "segment_game_p2",
+"cstart": 2979888,
+"cend": 2999440,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 5333232,
+"ulen": 74416
+},
+{
+"name": "segment_game_p4",
+"cstart": 2999440,
+"cend": 3040512,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 5407648,
+"ulen": 126832
+},
+{
+"name": "segment_game_ls",
+"cstart": 3040512,
+"cend": 3116672,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 5534480,
+"ulen": 209920
+},
+{
+"name": "segment_game_item",
+"cstart": 3116672,
+"cend": 3118752,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 5744400,
+"ulen": 6720
+},
+{
+"name": "segment_anime_a",
+"cstart": 3118752,
+"cend": 3133536,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 5751120,
+"ulen": 66416
+},
+{
+"name": "segment_anime_b",
+"cstart": 3133536,
+"cend": 3140720,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 5817536,
+"ulen": 24832
+},
+{
+"name": "segment_anime_c",
+"cstart": 3140720,
+"cend": 3152160,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 5842368,
+"ulen": 69616
+},
+{
+"name": "segment_anime_d",
+"cstart": 3152160,
+"cend": 3160672,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 5911984,
+"ulen": 35376
+},
+{
+"name": "segment_anime_e",
+"cstart": 3160672,
+"cend": 3168160,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 5947360,
+"ulen": 41136
+},
+{
+"name": "segment_anime_f",
+"cstart": 3168160,
+"cend": 3178192,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 5988496,
+"ulen": 27728
+},
+{
+"name": "segment_anime_g",
+"cstart": 3178192,
+"cend": 3187232,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 6016224,
+"ulen": 54320
+},
+{
+"name": "segment_anime_h",
+"cstart": 3187232,
+"cend": 3194496,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 6070544,
+"ulen": 22336
+},
+{
+"name": "segment_anime_i",
+"cstart": 3194496,
+"cend": 3204000,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 6092880,
+"ulen": 37792
+},
+{
+"name": "segment_anime_j",
+"cstart": 3204000,
+"cend": 3211856,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 6130672,
+"ulen": 44080
+},
+{
+"name": "segment_anime_k",
+"cstart": 3211856,
+"cend": 3218880,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 6174752,
+"ulen": 20912
+},
+{
+"name": "segment_anime_l",
+"cstart": 3218880,
+"cend": 3228368,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 6195664,
+"ulen": 52432
+},
+{
+"name": "segment_anime_m",
+"cstart": 3228368,
+"cend": 3237296,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 6248096,
+"ulen": 27488
+},
+{
+"name": "segment_anime_n",
+"cstart": 3237296,
+"cend": 3245472,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 6275584,
+"ulen": 36736
+},
+{
+"name": "segment_anime_o",
+"cstart": 3245472,
+"cend": 3255120,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 6312320,
+"ulen": 27488
+},
+{
+"name": "segment_anime_mario",
+"cstart": 3255120,
+"cend": 3303824,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 6339808,
+"ulen": 186256
+},
+{
+"name": "segment_anime_virus_b",
+"cstart": 3303824,
+"cend": 3308768,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 6526064,
+"ulen": 7152
+},
+{
+"name": "segment_anime_virus_r",
+"cstart": 3308768,
+"cend": 3312512,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 6533216,
+"ulen": 5536
+},
+{
+"name": "segment_anime_virus_y",
+"cstart": 3312512,
+"cend": 3316208,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 6538752,
+"ulen": 5536
+},
+{
+"name": "segment_anime_smog",
+"cstart": 3316208,
+"cend": 3317744,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 6544288,
+"ulen": 4928
+},
+{
+"name": "segment_tutorial_data",
+"cstart": 3317744,
+"cend": 3329184,
+"level": 9,
+"tool": "gzip_smallmem",
+"compressed": true,
+"ustart": 6549216,
+"ulen": 32656
+},
+{
+"name": "",
+"cstart": 3329184,
+"cend": 4194304,
+"compressed": false,
+"ustart": 6581872,
+"ulen": 865120
+}
+],
+"rom_len": 7446992,
+"crom_len": 4194304,
+"ptr_tables": 1791680,
+"wave_tables": 636000
+}

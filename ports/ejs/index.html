@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tonic Tumble</title>
+<style>
+  :root { --bg:#101218; --fg:#e8e8ee; --dim:#9aa0ad; --accent:#e23b3b; }
+  html,body { margin:0; height:100%; background:var(--bg); color:var(--fg); font:14px/1.4 system-ui,sans-serif; }
+  #wrap { display:flex; flex-direction:column; height:100%; }
+  #game { flex:1; min-height:0; }
+  #bar { padding:6px 16px; color:var(--dim); font-size:12px; display:flex; gap:16px; flex-wrap:wrap; }
+  #bar b { color:var(--fg); font-weight:600; }
+  #bar a { color:var(--dim); }
+</style>
+</head>
+<body>
+<div id="wrap">
+  <div id="game"></div>
+  <div id="bar">
+    <span><b>Tonic Tumble</b>: an original puzzle game built on the AngheloAlf/drmario64 decomp. Every picture, tune, sound, shape and line of text is new
+      (<a href="https://github.com/andrewnakas/drmario64-cleanroom">source</a> · <a href="THIRD_PARTY.md">third-party notices</a>)</span>
+    <span>Keys: <b>Arrows</b> move / drop · <b>X</b> A (rotate) · <b>Z</b> B (rotate back) · <b>Enter</b> Start · <b>Space</b> Z · <b>Q / W</b> L / R · <b>I J K L</b> C-buttons. Gamepads work too.</span>
+  </div>
+</div>
+<script>
+(function () {
+  // keyboard layout (EmulatorJS n64 ids: 0 A, 1 B, 3 Start, 4-7 D-pad, 10 L, 11 R, 12 Z,
+  // 16/17 stick right/left, 18/19 stick down/up, 20-23 C right/left/down/up)
+  const k = (v, g) => ({ value: v, value2: g || "" });
+  const P1 = {
+    0: k("x", "BUTTON_1"), 1: k("z", "BUTTON_3"), 3: k("enter", "START"),
+    4: k("up arrow", "DPAD_UP"), 5: k("down arrow", "DPAD_DOWN"), 6: k("left arrow", "DPAD_LEFT"), 7: k("right arrow", "DPAD_RIGHT"),
+    10: k("q", "LEFT_TOP_SHOULDER"), 11: k("w", "RIGHT_TOP_SHOULDER"), 12: k("space", "LEFT_BOTTOM_SHOULDER"),
+    16: k("", "LEFT_STICK_X:+1"), 17: k("", "LEFT_STICK_X:-1"),
+    18: k("", "LEFT_STICK_Y:+1"), 19: k("", "LEFT_STICK_Y:-1"),
+    20: k("l", "RIGHT_STICK_X:+1"), 21: k("j", "RIGHT_STICK_X:-1"),
+    22: k("k", "RIGHT_STICK_Y:+1"), 23: k("i", "RIGHT_STICK_Y:-1"),
+  };
+  window.EJS_player = "#game";
+  window.EJS_core = "mupen64plus_next";
+  window.EJS_gameName = "tonic-tumble";
+  window.EJS_gameUrl = "tonictumble.z64";
+  window.EJS_pathtodata = "data/";
+  window.EJS_startOnLoaded = true;
+  window.EJS_disableDatabases = true;
+  window.EJS_threads = false;
+  window.EJS_color = "#e23b3b";
+  window.EJS_defaultControls = { 0: P1, 1: {}, 2: {}, 3: {} };
+  // the ROM carries tagged microcode placeholders: only the bundled (patched) GLideN64 + HLE RSP core can run it
+  // GLideN64's per-game frame-buffer settings come from its built-in ini, re-keyed to TONIC TUMBLE by patch_core.py
+  window.EJS_defaultOptions = { "mupen64plus-rdp-plugin": "gliden64", "mupen64plus-rsp-plugin": "hle" };
+  window.EJS_onGameStart = function () { console.log("DRM64: game started"); };
+})();
+</script>
+<script src="data/loader.js"></script>
+</body>
+</html>

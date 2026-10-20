@@ -1,0 +1,48 @@
+{
+  "game": "drmario64 (Tonic Tumble)",
+  "usage": "python -m cleanroom.originality D:/n64work/drmario64/gate <clean assets dir> games/drmario64/spec --manifest games/drmario64/originality.json --report ORIGINALITY.md  (dirty root = the gate exports written by extract_more; clean root = the asset tree from games.drmario64.assets plus gate_inputs after build_decomp)",
+  "music": [
+    {
+      "retail": "music/*.mid",
+      "clean": "gate_music/*.mid"
+    }
+  ],
+  "text": [
+    {
+      "retail": "text/retail.json",
+      "clean": "text_clean.json"
+    }
+  ],
+  "names": "names.json",
+  "geometry": [
+    {
+      "retail": "geo/**/*.json",
+      "clean": "geo/**/*.json"
+    }
+  ],
+  "images": [
+    {
+      "retail": "../dirty/bin/us/**/*.png",
+      "clean": "**/*.png"
+    }
+  ],
+  "code": [
+    {
+      "retail": "../dirty/config/us/baserom_uncompressed.us.z64",
+      "clean": "gate_code/clean_text.bin",
+      "start": "0",
+      "clean_start": "0",
+      "compiled": [
+        "gate_code/compiled/*.bin"
+      ]
+    }
+  ],
+  "notes": {
+    "music": "24 libmus songs composed by cleanroom.audio.compose from tempo, intro/loop lengths, channel roles/registers and our mood tags; retail notes only exported as MIDI on the dirty side for this comparison. Sound effects regenerated (same instrument setup, length and note count; new pitches/rhythm).",
+    "text": "Every US string (msg files, C string tables, debug menu, credits) rewritten by us; names.json maps every retail proper noun and staff name.",
+    "geometry": "Only real 3D meshes are compared (10). 309 rectangle cards and 119 flat cut-outs (now rectangles) are generic layout primitives rebuilt from rounded boxes and are exempt.",
+    "images": "All 1205 textures are new designs; retail PNGs are read only for this comparison.",
+    "code": "clean_text.bin = .text of the boot and main segments of our GCC build with the four RSP microcode blobs blanked (retail microcode is carried unchanged: publishing blocker). Allowed ('compiled'): the link-order .text runs of the objects our build compiled or assembled from decomp sources (gate_code/compiled), so the check proves the code region holds nothing but compiler/assembler output; short accessor functions that GCC and KMC happen to encode identically are explained this way. The retail side is all retail executable code (boot + main_segment text).",
+    "ipl3": "Our own CC0 boot stub (games/drmario64/ipl3/ipl3.s): boots in emulators, not on real consoles."
+  }
+}

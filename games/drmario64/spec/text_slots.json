@@ -1,0 +1,6788 @@
+{
+"src/main_segment/debug_menu.c:0": {
+"line": 0,
+"lines": 6,
+"msg": 28,
+"width": 9
+},
+"src/main_segment/debug_menu.c:1": {
+"line": 1,
+"lines": 6,
+"msg": 28,
+"width": 10
+},
+"src/main_segment/debug_menu.c:10": {
+"line": 4,
+"lines": 8,
+"msg": 29,
+"width": 7
+},
+"src/main_segment/debug_menu.c:107": {
+"line": 8,
+"lines": 41,
+"msg": 39,
+"width": 23
+},
+"src/main_segment/debug_menu.c:108": {
+"line": 9,
+"lines": 41,
+"msg": 39,
+"width": 3
+},
+"src/main_segment/debug_menu.c:11": {
+"line": 5,
+"lines": 8,
+"msg": 29,
+"width": 8
+},
+"src/main_segment/debug_menu.c:112": {
+"line": 10,
+"lines": 41,
+"msg": 39,
+"width": 3
+},
+"src/main_segment/debug_menu.c:116": {
+"line": 11,
+"lines": 41,
+"msg": 39,
+"width": 21
+},
+"src/main_segment/debug_menu.c:12": {
+"line": 6,
+"lines": 8,
+"msg": 29,
+"width": 8
+},
+"src/main_segment/debug_menu.c:120": {
+"line": 12,
+"lines": 41,
+"msg": 39,
+"width": 3
+},
+"src/main_segment/debug_menu.c:121": {
+"line": 13,
+"lines": 41,
+"msg": 39,
+"width": 33
+},
+"src/main_segment/debug_menu.c:122": {
+"line": 14,
+"lines": 41,
+"msg": 39,
+"width": 46
+},
+"src/main_segment/debug_menu.c:13": {
+"line": 7,
+"lines": 8,
+"msg": 29,
+"width": 6
+},
+"src/main_segment/debug_menu.c:132": {
+"line": 15,
+"lines": 41,
+"msg": 39,
+"width": 46
+},
+"src/main_segment/debug_menu.c:14": {
+"line": 0,
+"lines": 2,
+"msg": 30,
+"width": 3
+},
+"src/main_segment/debug_menu.c:142": {
+"line": 16,
+"lines": 41,
+"msg": 39,
+"width": 30
+},
+"src/main_segment/debug_menu.c:143": {
+"line": 17,
+"lines": 41,
+"msg": 39,
+"width": 3
+},
+"src/main_segment/debug_menu.c:144": {
+"line": 18,
+"lines": 41,
+"msg": 39,
+"width": 5
+},
+"src/main_segment/debug_menu.c:145": {
+"line": 19,
+"lines": 41,
+"msg": 39,
+"width": 4
+},
+"src/main_segment/debug_menu.c:146": {
+"line": 20,
+"lines": 41,
+"msg": 39,
+"width": 11
+},
+"src/main_segment/debug_menu.c:147": {
+"line": 21,
+"lines": 41,
+"msg": 39,
+"width": 5
+},
+"src/main_segment/debug_menu.c:148": {
+"line": 22,
+"lines": 41,
+"msg": 39,
+"width": 7
+},
+"src/main_segment/debug_menu.c:149": {
+"line": 23,
+"lines": 41,
+"msg": 39,
+"width": 6
+},
+"src/main_segment/debug_menu.c:15": {
+"line": 1,
+"lines": 2,
+"msg": 30,
+"width": 2
+},
+"src/main_segment/debug_menu.c:150": {
+"line": 24,
+"lines": 41,
+"msg": 39,
+"width": 10
+},
+"src/main_segment/debug_menu.c:151": {
+"line": 25,
+"lines": 41,
+"msg": 39,
+"width": 6
+},
+"src/main_segment/debug_menu.c:152": {
+"line": 26,
+"lines": 41,
+"msg": 39,
+"width": 10
+},
+"src/main_segment/debug_menu.c:153": {
+"line": 27,
+"lines": 41,
+"msg": 39,
+"width": 10
+},
+"src/main_segment/debug_menu.c:154": {
+"line": 28,
+"lines": 41,
+"msg": 39,
+"width": 7
+},
+"src/main_segment/debug_menu.c:155": {
+"line": 29,
+"lines": 41,
+"msg": 39,
+"width": 5
+},
+"src/main_segment/debug_menu.c:156": {
+"line": 30,
+"lines": 41,
+"msg": 39,
+"width": 7
+},
+"src/main_segment/debug_menu.c:157": {
+"line": 31,
+"lines": 41,
+"msg": 39,
+"width": 3
+},
+"src/main_segment/debug_menu.c:158": {
+"line": 32,
+"lines": 41,
+"msg": 39,
+"width": 6
+},
+"src/main_segment/debug_menu.c:159": {
+"line": 33,
+"lines": 41,
+"msg": 39,
+"width": 9
+},
+"src/main_segment/debug_menu.c:16": {
+"line": 0,
+"lines": 16,
+"msg": 31,
+"width": 5
+},
+"src/main_segment/debug_menu.c:160": {
+"line": 34,
+"lines": 41,
+"msg": 39,
+"width": 13
+},
+"src/main_segment/debug_menu.c:161": {
+"line": 35,
+"lines": 41,
+"msg": 39,
+"width": 4
+},
+"src/main_segment/debug_menu.c:162": {
+"line": 36,
+"lines": 41,
+"msg": 39,
+"width": 5
+},
+"src/main_segment/debug_menu.c:163": {
+"line": 37,
+"lines": 41,
+"msg": 39,
+"width": 4
+},
+"src/main_segment/debug_menu.c:164": {
+"line": 38,
+"lines": 41,
+"msg": 39,
+"width": 6
+},
+"src/main_segment/debug_menu.c:165": {
+"line": 39,
+"lines": 41,
+"msg": 39,
+"width": 10
+},
+"src/main_segment/debug_menu.c:166": {
+"line": 40,
+"lines": 41,
+"msg": 39,
+"width": 14
+},
+"src/main_segment/debug_menu.c:168": {
+"line": 0,
+"lines": 10,
+"msg": 41,
+"width": 6
+},
+"src/main_segment/debug_menu.c:169": {
+"line": 1,
+"lines": 10,
+"msg": 41,
+"width": 5
+},
+"src/main_segment/debug_menu.c:17": {
+"line": 1,
+"lines": 16,
+"msg": 31,
+"width": 8
+},
+"src/main_segment/debug_menu.c:170": {
+"line": 2,
+"lines": 10,
+"msg": 41,
+"width": 5
+},
+"src/main_segment/debug_menu.c:171": {
+"line": 3,
+"lines": 10,
+"msg": 41,
+"width": 7
+},
+"src/main_segment/debug_menu.c:172": {
+"line": 4,
+"lines": 10,
+"msg": 41,
+"width": 5
+},
+"src/main_segment/debug_menu.c:173": {
+"line": 5,
+"lines": 10,
+"msg": 41,
+"width": 6
+},
+"src/main_segment/debug_menu.c:174": {
+"line": 6,
+"lines": 10,
+"msg": 41,
+"width": 9
+},
+"src/main_segment/debug_menu.c:175": {
+"line": 7,
+"lines": 10,
+"msg": 41,
+"width": 9
+},
+"src/main_segment/debug_menu.c:176": {
+"line": 8,
+"lines": 10,
+"msg": 41,
+"width": 5
+},
+"src/main_segment/debug_menu.c:177": {
+"line": 9,
+"lines": 10,
+"msg": 41,
+"width": 8
+},
+"src/main_segment/debug_menu.c:179": {
+"line": 0,
+"lines": 12,
+"msg": 43,
+"width": 9
+},
+"src/main_segment/debug_menu.c:18": {
+"line": 2,
+"lines": 16,
+"msg": 31,
+"width": 6
+},
+"src/main_segment/debug_menu.c:180": {
+"line": 1,
+"lines": 12,
+"msg": 43,
+"width": 9
+},
+"src/main_segment/debug_menu.c:181": {
+"line": 2,
+"lines": 12,
+"msg": 43,
+"width": 3
+},
+"src/main_segment/debug_menu.c:182": {
+"line": 3,
+"lines": 12,
+"msg": 43,
+"width": 4
+},
+"src/main_segment/debug_menu.c:183": {
+"line": 4,
+"lines": 12,
+"msg": 43,
+"width": 3
+},
+"src/main_segment/debug_menu.c:184": {
+"line": 5,
+"lines": 12,
+"msg": 43,
+"width": 6
+},
+"src/main_segment/debug_menu.c:185": {
+"line": 6,
+"lines": 12,
+"msg": 43,
+"width": 3
+},
+"src/main_segment/debug_menu.c:186": {
+"line": 7,
+"lines": 12,
+"msg": 43,
+"width": 5
+},
+"src/main_segment/debug_menu.c:187": {
+"line": 8,
+"lines": 12,
+"msg": 43,
+"width": 9
+},
+"src/main_segment/debug_menu.c:188": {
+"line": 9,
+"lines": 12,
+"msg": 43,
+"width": 10
+},
+"src/main_segment/debug_menu.c:189": {
+"line": 10,
+"lines": 12,
+"msg": 43,
+"width": 7
+},
+"src/main_segment/debug_menu.c:19": {
+"line": 3,
+"lines": 16,
+"msg": 31,
+"width": 8
+},
+"src/main_segment/debug_menu.c:190": {
+"line": 11,
+"lines": 12,
+"msg": 43,
+"width": 10
+},
+"src/main_segment/debug_menu.c:192": {
+"line": 0,
+"lines": 24,
+"msg": 45,
+"width": 9
+},
+"src/main_segment/debug_menu.c:193": {
+"line": 1,
+"lines": 24,
+"msg": 45,
+"width": 17
+},
+"src/main_segment/debug_menu.c:194": {
+"line": 2,
+"lines": 24,
+"msg": 45,
+"width": 5
+},
+"src/main_segment/debug_menu.c:195": {
+"line": 3,
+"lines": 24,
+"msg": 45,
+"width": 7
+},
+"src/main_segment/debug_menu.c:196": {
+"line": 4,
+"lines": 24,
+"msg": 45,
+"width": 3
+},
+"src/main_segment/debug_menu.c:197": {
+"line": 5,
+"lines": 24,
+"msg": 45,
+"width": 4
+},
+"src/main_segment/debug_menu.c:198": {
+"line": 6,
+"lines": 24,
+"msg": 45,
+"width": 3
+},
+"src/main_segment/debug_menu.c:199": {
+"line": 7,
+"lines": 24,
+"msg": 45,
+"width": 12
+},
+"src/main_segment/debug_menu.c:2": {
+"line": 2,
+"lines": 6,
+"msg": 28,
+"width": 11
+},
+"src/main_segment/debug_menu.c:20": {
+"line": 4,
+"lines": 16,
+"msg": 31,
+"width": 8
+},
+"src/main_segment/debug_menu.c:200": {
+"line": 8,
+"lines": 24,
+"msg": 45,
+"width": 7
+},
+"src/main_segment/debug_menu.c:201": {
+"line": 9,
+"lines": 24,
+"msg": 45,
+"width": 6
+},
+"src/main_segment/debug_menu.c:202": {
+"line": 10,
+"lines": 24,
+"msg": 45,
+"width": 5
+},
+"src/main_segment/debug_menu.c:203": {
+"line": 11,
+"lines": 24,
+"msg": 45,
+"width": 7
+},
+"src/main_segment/debug_menu.c:204": {
+"line": 12,
+"lines": 24,
+"msg": 45,
+"width": 5
+},
+"src/main_segment/debug_menu.c:205": {
+"line": 13,
+"lines": 24,
+"msg": 45,
+"width": 6
+},
+"src/main_segment/debug_menu.c:206": {
+"line": 14,
+"lines": 24,
+"msg": 45,
+"width": 10
+},
+"src/main_segment/debug_menu.c:207": {
+"line": 15,
+"lines": 24,
+"msg": 45,
+"width": 8
+},
+"src/main_segment/debug_menu.c:208": {
+"line": 16,
+"lines": 24,
+"msg": 45,
+"width": 6
+},
+"src/main_segment/debug_menu.c:209": {
+"line": 17,
+"lines": 24,
+"msg": 45,
+"width": 7
+},
+"src/main_segment/debug_menu.c:21": {
+"line": 5,
+"lines": 16,
+"msg": 31,
+"width": 6
+},
+"src/main_segment/debug_menu.c:210": {
+"line": 18,
+"lines": 24,
+"msg": 45,
+"width": 3
+},
+"src/main_segment/debug_menu.c:211": {
+"line": 19,
+"lines": 24,
+"msg": 45,
+"width": 6
+},
+"src/main_segment/debug_menu.c:212": {
+"line": 20,
+"lines": 24,
+"msg": 45,
+"width": 4
+},
+"src/main_segment/debug_menu.c:213": {
+"line": 21,
+"lines": 24,
+"msg": 45,
+"width": 6
+},
+"src/main_segment/debug_menu.c:214": {
+"line": 22,
+"lines": 24,
+"msg": 45,
+"width": 6
+},
+"src/main_segment/debug_menu.c:215": {
+"line": 23,
+"lines": 24,
+"msg": 45,
+"width": 7
+},
+"src/main_segment/debug_menu.c:22": {
+"line": 6,
+"lines": 16,
+"msg": 31,
+"width": 8
+},
+"src/main_segment/debug_menu.c:226": {
+"line": 0,
+"lines": 8,
+"msg": 65,
+"width": 6
+},
+"src/main_segment/debug_menu.c:227": {
+"line": 1,
+"lines": 8,
+"msg": 65,
+"width": 9
+},
+"src/main_segment/debug_menu.c:23": {
+"line": 7,
+"lines": 16,
+"msg": 31,
+"width": 6
+},
+"src/main_segment/debug_menu.c:230": {
+"line": 2,
+"lines": 8,
+"msg": 65,
+"width": 4
+},
+"src/main_segment/debug_menu.c:231": {
+"line": 3,
+"lines": 8,
+"msg": 65,
+"width": 11
+},
+"src/main_segment/debug_menu.c:234": {
+"line": 4,
+"lines": 8,
+"msg": 65,
+"width": 6
+},
+"src/main_segment/debug_menu.c:235": {
+"line": 5,
+"lines": 8,
+"msg": 65,
+"width": 5
+},
+"src/main_segment/debug_menu.c:238": {
+"line": 6,
+"lines": 8,
+"msg": 65,
+"width": 4
+},
+"src/main_segment/debug_menu.c:239": {
+"line": 7,
+"lines": 8,
+"msg": 65,
+"width": 7
+},
+"src/main_segment/debug_menu.c:24": {
+"line": 8,
+"lines": 16,
+"msg": 31,
+"width": 12
+},
+"src/main_segment/debug_menu.c:244": {
+"line": 0,
+"lines": 4,
+"msg": 70,
+"width": 12
+},
+"src/main_segment/debug_menu.c:245": {
+"line": 1,
+"lines": 4,
+"msg": 70,
+"width": 14
+},
+"src/main_segment/debug_menu.c:247": {
+"line": 2,
+"lines": 4,
+"msg": 70,
+"width": 3
+},
+"src/main_segment/debug_menu.c:248": {
+"line": 3,
+"lines": 4,
+"msg": 70,
+"width": 8
+},
+"src/main_segment/debug_menu.c:25": {
+"line": 9,
+"lines": 16,
+"msg": 31,
+"width": 5
+},
+"src/main_segment/debug_menu.c:26": {
+"line": 10,
+"lines": 16,
+"msg": 31,
+"width": 5
+},
+"src/main_segment/debug_menu.c:27": {
+"line": 11,
+"lines": 16,
+"msg": 31,
+"width": 5
+},
+"src/main_segment/debug_menu.c:28": {
+"line": 12,
+"lines": 16,
+"msg": 31,
+"width": 6
+},
+"src/main_segment/debug_menu.c:29": {
+"line": 13,
+"lines": 16,
+"msg": 31,
+"width": 6
+},
+"src/main_segment/debug_menu.c:3": {
+"line": 3,
+"lines": 6,
+"msg": 28,
+"width": 12
+},
+"src/main_segment/debug_menu.c:30": {
+"line": 14,
+"lines": 16,
+"msg": 31,
+"width": 6
+},
+"src/main_segment/debug_menu.c:31": {
+"line": 15,
+"lines": 16,
+"msg": 31,
+"width": 6
+},
+"src/main_segment/debug_menu.c:32": {
+"line": 0,
+"lines": 8,
+"msg": 32,
+"width": 6
+},
+"src/main_segment/debug_menu.c:33": {
+"line": 1,
+"lines": 8,
+"msg": 32,
+"width": 6
+},
+"src/main_segment/debug_menu.c:34": {
+"line": 2,
+"lines": 8,
+"msg": 32,
+"width": 4
+},
+"src/main_segment/debug_menu.c:35": {
+"line": 3,
+"lines": 8,
+"msg": 32,
+"width": 4
+},
+"src/main_segment/debug_menu.c:36": {
+"line": 4,
+"lines": 8,
+"msg": 32,
+"width": 6
+},
+"src/main_segment/debug_menu.c:37": {
+"line": 5,
+"lines": 8,
+"msg": 32,
+"width": 7
+},
+"src/main_segment/debug_menu.c:38": {
+"line": 6,
+"lines": 8,
+"msg": 32,
+"width": 6
+},
+"src/main_segment/debug_menu.c:39": {
+"line": 7,
+"lines": 8,
+"msg": 32,
+"width": 8
+},
+"src/main_segment/debug_menu.c:4": {
+"line": 4,
+"lines": 6,
+"msg": 28,
+"width": 8
+},
+"src/main_segment/debug_menu.c:41": {
+"line": 0,
+"lines": 12,
+"msg": 33,
+"width": 13
+},
+"src/main_segment/debug_menu.c:42": {
+"line": 1,
+"lines": 12,
+"msg": 33,
+"width": 6
+},
+"src/main_segment/debug_menu.c:43": {
+"line": 2,
+"lines": 12,
+"msg": 33,
+"width": 6
+},
+"src/main_segment/debug_menu.c:44": {
+"line": 3,
+"lines": 12,
+"msg": 33,
+"width": 8
+},
+"src/main_segment/debug_menu.c:45": {
+"line": 4,
+"lines": 12,
+"msg": 33,
+"width": 7
+},
+"src/main_segment/debug_menu.c:46": {
+"line": 5,
+"lines": 12,
+"msg": 33,
+"width": 4
+},
+"src/main_segment/debug_menu.c:47": {
+"line": 6,
+"lines": 12,
+"msg": 33,
+"width": 4
+},
+"src/main_segment/debug_menu.c:48": {
+"line": 7,
+"lines": 12,
+"msg": 33,
+"width": 6
+},
+"src/main_segment/debug_menu.c:49": {
+"line": 8,
+"lines": 12,
+"msg": 33,
+"width": 4
+},
+"src/main_segment/debug_menu.c:5": {
+"line": 5,
+"lines": 6,
+"msg": 28,
+"width": 13
+},
+"src/main_segment/debug_menu.c:50": {
+"line": 9,
+"lines": 12,
+"msg": 33,
+"width": 4
+},
+"src/main_segment/debug_menu.c:51": {
+"line": 10,
+"lines": 12,
+"msg": 33,
+"width": 5
+},
+"src/main_segment/debug_menu.c:52": {
+"line": 11,
+"lines": 12,
+"msg": 33,
+"width": 10
+},
+"src/main_segment/debug_menu.c:54": {
+"line": 0,
+"lines": 10,
+"msg": 34,
+"width": 6
+},
+"src/main_segment/debug_menu.c:55": {
+"line": 1,
+"lines": 10,
+"msg": 34,
+"width": 5
+},
+"src/main_segment/debug_menu.c:56": {
+"line": 2,
+"lines": 10,
+"msg": 34,
+"width": 8
+},
+"src/main_segment/debug_menu.c:57": {
+"line": 3,
+"lines": 10,
+"msg": 34,
+"width": 6
+},
+"src/main_segment/debug_menu.c:58": {
+"line": 4,
+"lines": 10,
+"msg": 34,
+"width": 6
+},
+"src/main_segment/debug_menu.c:59": {
+"line": 5,
+"lines": 10,
+"msg": 34,
+"width": 8
+},
+"src/main_segment/debug_menu.c:6": {
+"line": 0,
+"lines": 8,
+"msg": 29,
+"width": 4
+},
+"src/main_segment/debug_menu.c:60": {
+"line": 6,
+"lines": 10,
+"msg": 34,
+"width": 5
+},
+"src/main_segment/debug_menu.c:61": {
+"line": 7,
+"lines": 10,
+"msg": 34,
+"width": 9
+},
+"src/main_segment/debug_menu.c:62": {
+"line": 8,
+"lines": 10,
+"msg": 34,
+"width": 8
+},
+"src/main_segment/debug_menu.c:63": {
+"line": 9,
+"lines": 10,
+"msg": 34,
+"width": 4
+},
+"src/main_segment/debug_menu.c:64": {
+"line": 0,
+"lines": 4,
+"msg": 37,
+"width": 7
+},
+"src/main_segment/debug_menu.c:65": {
+"line": 1,
+"lines": 4,
+"msg": 37,
+"width": 5
+},
+"src/main_segment/debug_menu.c:66": {
+"line": 2,
+"lines": 4,
+"msg": 37,
+"width": 6
+},
+"src/main_segment/debug_menu.c:67": {
+"line": 3,
+"lines": 4,
+"msg": 37,
+"width": 7
+},
+"src/main_segment/debug_menu.c:68": {
+"line": 0,
+"lines": 3,
+"msg": 38,
+"width": 4
+},
+"src/main_segment/debug_menu.c:69": {
+"line": 1,
+"lines": 3,
+"msg": 38,
+"width": 6
+},
+"src/main_segment/debug_menu.c:7": {
+"line": 1,
+"lines": 8,
+"msg": 29,
+"width": 6
+},
+"src/main_segment/debug_menu.c:70": {
+"line": 2,
+"lines": 3,
+"msg": 38,
+"width": 4
+},
+"src/main_segment/debug_menu.c:75": {
+"line": 0,
+"lines": 41,
+"msg": 39,
+"width": 34
+},
+"src/main_segment/debug_menu.c:78": {
+"line": 1,
+"lines": 41,
+"msg": 39,
+"width": 33
+},
+"src/main_segment/debug_menu.c:79": {
+"line": 2,
+"lines": 41,
+"msg": 39,
+"width": 24
+},
+"src/main_segment/debug_menu.c:8": {
+"line": 2,
+"lines": 8,
+"msg": 29,
+"width": 4
+},
+"src/main_segment/debug_menu.c:83": {
+"line": 3,
+"lines": 41,
+"msg": 39,
+"width": 45
+},
+"src/main_segment/debug_menu.c:89": {
+"line": 4,
+"lines": 41,
+"msg": 39,
+"width": 31
+},
+"src/main_segment/debug_menu.c:9": {
+"line": 3,
+"lines": 8,
+"msg": 29,
+"width": 8
+},
+"src/main_segment/debug_menu.c:90": {
+"line": 5,
+"lines": 41,
+"msg": 39,
+"width": 3
+},
+"src/main_segment/debug_menu.c:95": {
+"line": 6,
+"lines": 41,
+"msg": 39,
+"width": 3
+},
+"src/main_segment/debug_menu.c:99": {
+"line": 7,
+"lines": 41,
+"msg": 39,
+"width": 43
+},
+"src/main_segment/dm_game_main.msg:0": {
+"line": 0,
+"lines": 2,
+"msg": 0,
+"width": 22
+},
+"src/main_segment/dm_game_main.msg:1": {
+"line": 1,
+"lines": 2,
+"msg": 0,
+"width": 22
+},
+"src/main_segment/dm_game_main.msg:10": {
+"line": 1,
+"lines": 4,
+"msg": 3,
+"width": 16
+},
+"src/main_segment/dm_game_main.msg:11": {
+"line": 2,
+"lines": 4,
+"msg": 3,
+"width": 16
+},
+"src/main_segment/dm_game_main.msg:12": {
+"line": 3,
+"lines": 4,
+"msg": 3,
+"width": 16
+},
+"src/main_segment/dm_game_main.msg:18": {
+"line": 0,
+"lines": 4,
+"msg": 4,
+"width": 21
+},
+"src/main_segment/dm_game_main.msg:19": {
+"line": 1,
+"lines": 4,
+"msg": 4,
+"width": 21
+},
+"src/main_segment/dm_game_main.msg:20": {
+"line": 2,
+"lines": 4,
+"msg": 4,
+"width": 21
+},
+"src/main_segment/dm_game_main.msg:21": {
+"line": 3,
+"lines": 4,
+"msg": 4,
+"width": 21
+},
+"src/main_segment/dm_game_main.msg:27": {
+"line": 0,
+"lines": 4,
+"msg": 5,
+"width": 16
+},
+"src/main_segment/dm_game_main.msg:28": {
+"line": 1,
+"lines": 4,
+"msg": 5,
+"width": 16
+},
+"src/main_segment/dm_game_main.msg:29": {
+"line": 2,
+"lines": 4,
+"msg": 5,
+"width": 16
+},
+"src/main_segment/dm_game_main.msg:30": {
+"line": 3,
+"lines": 4,
+"msg": 5,
+"width": 16
+},
+"src/main_segment/dm_game_main.msg:36": {
+"line": 0,
+"lines": 4,
+"msg": 6,
+"width": 20
+},
+"src/main_segment/dm_game_main.msg:37": {
+"line": 1,
+"lines": 4,
+"msg": 6,
+"width": 20
+},
+"src/main_segment/dm_game_main.msg:38": {
+"line": 2,
+"lines": 4,
+"msg": 6,
+"width": 20
+},
+"src/main_segment/dm_game_main.msg:39": {
+"line": 3,
+"lines": 4,
+"msg": 6,
+"width": 20
+},
+"src/main_segment/dm_game_main.msg:4": {
+"line": 0,
+"lines": 2,
+"msg": 1,
+"width": 22
+},
+"src/main_segment/dm_game_main.msg:45": {
+"line": 0,
+"lines": 4,
+"msg": 7,
+"width": 16
+},
+"src/main_segment/dm_game_main.msg:46": {
+"line": 1,
+"lines": 4,
+"msg": 7,
+"width": 16
+},
+"src/main_segment/dm_game_main.msg:47": {
+"line": 2,
+"lines": 4,
+"msg": 7,
+"width": 16
+},
+"src/main_segment/dm_game_main.msg:48": {
+"line": 3,
+"lines": 4,
+"msg": 7,
+"width": 16
+},
+"src/main_segment/dm_game_main.msg:5": {
+"line": 1,
+"lines": 2,
+"msg": 1,
+"width": 22
+},
+"src/main_segment/dm_game_main.msg:54": {
+"line": 0,
+"lines": 10,
+"msg": 8,
+"width": 22
+},
+"src/main_segment/dm_game_main.msg:55": {
+"line": 1,
+"lines": 10,
+"msg": 8,
+"width": 22
+},
+"src/main_segment/dm_game_main.msg:56": {
+"line": 2,
+"lines": 10,
+"msg": 8,
+"width": 22
+},
+"src/main_segment/dm_game_main.msg:57": {
+"line": 3,
+"lines": 10,
+"msg": 8,
+"width": 22
+},
+"src/main_segment/dm_game_main.msg:58": {
+"line": 4,
+"lines": 10,
+"msg": 8,
+"width": 22
+},
+"src/main_segment/dm_game_main.msg:59": {
+"line": 5,
+"lines": 10,
+"msg": 8,
+"width": 22
+},
+"src/main_segment/dm_game_main.msg:60": {
+"line": 6,
+"lines": 10,
+"msg": 8,
+"width": 22
+},
+"src/main_segment/dm_game_main.msg:61": {
+"line": 7,
+"lines": 10,
+"msg": 8,
+"width": 22
+},
+"src/main_segment/dm_game_main.msg:62": {
+"line": 8,
+"lines": 10,
+"msg": 8,
+"width": 22
+},
+"src/main_segment/dm_game_main.msg:63": {
+"line": 9,
+"lines": 10,
+"msg": 8,
+"width": 22
+},
+"src/main_segment/dm_game_main.msg:72": {
+"line": 0,
+"lines": 4,
+"msg": 9,
+"width": 17
+},
+"src/main_segment/dm_game_main.msg:73": {
+"line": 1,
+"lines": 4,
+"msg": 9,
+"width": 17
+},
+"src/main_segment/dm_game_main.msg:74": {
+"line": 2,
+"lines": 4,
+"msg": 9,
+"width": 17
+},
+"src/main_segment/dm_game_main.msg:75": {
+"line": 3,
+"lines": 4,
+"msg": 9,
+"width": 17
+},
+"src/main_segment/dm_game_main.msg:8": {
+"line": 0,
+"lines": 1,
+"msg": 2,
+"width": 13
+},
+"src/main_segment/dm_game_main.msg:81": {
+"line": 0,
+"lines": 5,
+"msg": 10,
+"width": 22
+},
+"src/main_segment/dm_game_main.msg:82": {
+"line": 1,
+"lines": 5,
+"msg": 10,
+"width": 22
+},
+"src/main_segment/dm_game_main.msg:83": {
+"line": 2,
+"lines": 5,
+"msg": 10,
+"width": 22
+},
+"src/main_segment/dm_game_main.msg:84": {
+"line": 3,
+"lines": 5,
+"msg": 10,
+"width": 22
+},
+"src/main_segment/dm_game_main.msg:85": {
+"line": 4,
+"lines": 5,
+"msg": 10,
+"width": 22
+},
+"src/main_segment/dm_game_main.msg:9": {
+"line": 0,
+"lines": 4,
+"msg": 3,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:0": {
+"line": 0,
+"lines": 2,
+"msg": 0,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:1": {
+"line": 1,
+"lines": 2,
+"msg": 0,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:100": {
+"line": 1,
+"lines": 4,
+"msg": 15,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:101": {
+"line": 2,
+"lines": 4,
+"msg": 15,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:102": {
+"line": 3,
+"lines": 4,
+"msg": 15,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:105": {
+"line": 0,
+"lines": 3,
+"msg": 16,
+"width": 14
+},
+"src/main_segment/dm_manual_main.msg:106": {
+"line": 1,
+"lines": 3,
+"msg": 16,
+"width": 14
+},
+"src/main_segment/dm_manual_main.msg:107": {
+"line": 2,
+"lines": 3,
+"msg": 16,
+"width": 14
+},
+"src/main_segment/dm_manual_main.msg:110": {
+"line": 0,
+"lines": 4,
+"msg": 17,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:111": {
+"line": 1,
+"lines": 4,
+"msg": 17,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:112": {
+"line": 2,
+"lines": 4,
+"msg": 17,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:113": {
+"line": 3,
+"lines": 4,
+"msg": 17,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:117": {
+"line": 0,
+"lines": 4,
+"msg": 18,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:118": {
+"line": 1,
+"lines": 4,
+"msg": 18,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:119": {
+"line": 2,
+"lines": 4,
+"msg": 18,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:12": {
+"line": 0,
+"lines": 4,
+"msg": 2,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:120": {
+"line": 3,
+"lines": 4,
+"msg": 18,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:124": {
+"line": 0,
+"lines": 4,
+"msg": 19,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:125": {
+"line": 1,
+"lines": 4,
+"msg": 19,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:126": {
+"line": 2,
+"lines": 4,
+"msg": 19,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:127": {
+"line": 3,
+"lines": 4,
+"msg": 19,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:13": {
+"line": 1,
+"lines": 4,
+"msg": 2,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:131": {
+"line": 0,
+"lines": 3,
+"msg": 20,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:132": {
+"line": 1,
+"lines": 3,
+"msg": 20,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:133": {
+"line": 2,
+"lines": 3,
+"msg": 20,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:136": {
+"line": 0,
+"lines": 4,
+"msg": 21,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:137": {
+"line": 1,
+"lines": 4,
+"msg": 21,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:138": {
+"line": 2,
+"lines": 4,
+"msg": 21,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:139": {
+"line": 3,
+"lines": 4,
+"msg": 21,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:14": {
+"line": 2,
+"lines": 4,
+"msg": 2,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:143": {
+"line": 0,
+"lines": 4,
+"msg": 22,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:144": {
+"line": 1,
+"lines": 4,
+"msg": 22,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:145": {
+"line": 2,
+"lines": 4,
+"msg": 22,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:146": {
+"line": 3,
+"lines": 4,
+"msg": 22,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:15": {
+"line": 3,
+"lines": 4,
+"msg": 2,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:150": {
+"line": 0,
+"lines": 4,
+"msg": 23,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:151": {
+"line": 1,
+"lines": 4,
+"msg": 23,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:152": {
+"line": 2,
+"lines": 4,
+"msg": 23,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:153": {
+"line": 3,
+"lines": 4,
+"msg": 23,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:157": {
+"line": 0,
+"lines": 4,
+"msg": 24,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:158": {
+"line": 1,
+"lines": 4,
+"msg": 24,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:159": {
+"line": 2,
+"lines": 4,
+"msg": 24,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:160": {
+"line": 3,
+"lines": 4,
+"msg": 24,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:164": {
+"line": 0,
+"lines": 4,
+"msg": 25,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:165": {
+"line": 1,
+"lines": 4,
+"msg": 25,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:166": {
+"line": 2,
+"lines": 4,
+"msg": 25,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:167": {
+"line": 3,
+"lines": 4,
+"msg": 25,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:171": {
+"line": 0,
+"lines": 4,
+"msg": 26,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:172": {
+"line": 1,
+"lines": 4,
+"msg": 26,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:173": {
+"line": 2,
+"lines": 4,
+"msg": 26,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:174": {
+"line": 3,
+"lines": 4,
+"msg": 26,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:178": {
+"line": 0,
+"lines": 3,
+"msg": 27,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:179": {
+"line": 1,
+"lines": 3,
+"msg": 27,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:180": {
+"line": 2,
+"lines": 3,
+"msg": 27,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:184": {
+"line": 0,
+"lines": 3,
+"msg": 28,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:185": {
+"line": 1,
+"lines": 3,
+"msg": 28,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:186": {
+"line": 2,
+"lines": 3,
+"msg": 28,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:189": {
+"line": 0,
+"lines": 4,
+"msg": 29,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:190": {
+"line": 1,
+"lines": 4,
+"msg": 29,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:191": {
+"line": 2,
+"lines": 4,
+"msg": 29,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:192": {
+"line": 3,
+"lines": 4,
+"msg": 29,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:195": {
+"line": 0,
+"lines": 4,
+"msg": 30,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:196": {
+"line": 1,
+"lines": 4,
+"msg": 30,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:197": {
+"line": 2,
+"lines": 4,
+"msg": 30,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:198": {
+"line": 3,
+"lines": 4,
+"msg": 30,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:202": {
+"line": 0,
+"lines": 3,
+"msg": 31,
+"width": 14
+},
+"src/main_segment/dm_manual_main.msg:203": {
+"line": 1,
+"lines": 3,
+"msg": 31,
+"width": 14
+},
+"src/main_segment/dm_manual_main.msg:204": {
+"line": 2,
+"lines": 3,
+"msg": 31,
+"width": 14
+},
+"src/main_segment/dm_manual_main.msg:207": {
+"line": 0,
+"lines": 3,
+"msg": 32,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:208": {
+"line": 1,
+"lines": 3,
+"msg": 32,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:209": {
+"line": 2,
+"lines": 3,
+"msg": 32,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:212": {
+"line": 0,
+"lines": 4,
+"msg": 33,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:213": {
+"line": 1,
+"lines": 4,
+"msg": 33,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:214": {
+"line": 2,
+"lines": 4,
+"msg": 33,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:215": {
+"line": 3,
+"lines": 4,
+"msg": 33,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:218": {
+"line": 0,
+"lines": 4,
+"msg": 34,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:219": {
+"line": 1,
+"lines": 4,
+"msg": 34,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:22": {
+"line": 0,
+"lines": 3,
+"msg": 3,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:220": {
+"line": 2,
+"lines": 4,
+"msg": 34,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:221": {
+"line": 3,
+"lines": 4,
+"msg": 34,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:225": {
+"line": 0,
+"lines": 3,
+"msg": 35,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:226": {
+"line": 1,
+"lines": 3,
+"msg": 35,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:227": {
+"line": 2,
+"lines": 3,
+"msg": 35,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:23": {
+"line": 1,
+"lines": 3,
+"msg": 3,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:231": {
+"line": 0,
+"lines": 4,
+"msg": 36,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:232": {
+"line": 1,
+"lines": 4,
+"msg": 36,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:233": {
+"line": 2,
+"lines": 4,
+"msg": 36,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:234": {
+"line": 3,
+"lines": 4,
+"msg": 36,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:238": {
+"line": 0,
+"lines": 3,
+"msg": 37,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:239": {
+"line": 1,
+"lines": 3,
+"msg": 37,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:24": {
+"line": 2,
+"lines": 3,
+"msg": 3,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:240": {
+"line": 2,
+"lines": 3,
+"msg": 37,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:244": {
+"line": 0,
+"lines": 4,
+"msg": 38,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:245": {
+"line": 1,
+"lines": 4,
+"msg": 38,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:246": {
+"line": 2,
+"lines": 4,
+"msg": 38,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:247": {
+"line": 3,
+"lines": 4,
+"msg": 38,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:251": {
+"line": 0,
+"lines": 3,
+"msg": 39,
+"width": 12
+},
+"src/main_segment/dm_manual_main.msg:252": {
+"line": 1,
+"lines": 3,
+"msg": 39,
+"width": 12
+},
+"src/main_segment/dm_manual_main.msg:253": {
+"line": 2,
+"lines": 3,
+"msg": 39,
+"width": 12
+},
+"src/main_segment/dm_manual_main.msg:256": {
+"line": 0,
+"lines": 2,
+"msg": 40,
+"width": 14
+},
+"src/main_segment/dm_manual_main.msg:257": {
+"line": 1,
+"lines": 2,
+"msg": 40,
+"width": 14
+},
+"src/main_segment/dm_manual_main.msg:260": {
+"line": 0,
+"lines": 2,
+"msg": 41,
+"width": 14
+},
+"src/main_segment/dm_manual_main.msg:261": {
+"line": 1,
+"lines": 2,
+"msg": 41,
+"width": 14
+},
+"src/main_segment/dm_manual_main.msg:27": {
+"line": 0,
+"lines": 4,
+"msg": 4,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:28": {
+"line": 1,
+"lines": 4,
+"msg": 4,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:29": {
+"line": 2,
+"lines": 4,
+"msg": 4,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:30": {
+"line": 3,
+"lines": 4,
+"msg": 4,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:35": {
+"line": 0,
+"lines": 4,
+"msg": 5,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:36": {
+"line": 1,
+"lines": 4,
+"msg": 5,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:37": {
+"line": 2,
+"lines": 4,
+"msg": 5,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:38": {
+"line": 3,
+"lines": 4,
+"msg": 5,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:4": {
+"line": 0,
+"lines": 4,
+"msg": 1,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:41": {
+"line": 0,
+"lines": 4,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:42": {
+"line": 1,
+"lines": 4,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:43": {
+"line": 2,
+"lines": 4,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:44": {
+"line": 3,
+"lines": 4,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:48": {
+"line": 0,
+"lines": 3,
+"msg": 7,
+"width": 14
+},
+"src/main_segment/dm_manual_main.msg:49": {
+"line": 1,
+"lines": 3,
+"msg": 7,
+"width": 14
+},
+"src/main_segment/dm_manual_main.msg:5": {
+"line": 1,
+"lines": 4,
+"msg": 1,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:50": {
+"line": 2,
+"lines": 3,
+"msg": 7,
+"width": 14
+},
+"src/main_segment/dm_manual_main.msg:53": {
+"line": 0,
+"lines": 4,
+"msg": 8,
+"width": 14
+},
+"src/main_segment/dm_manual_main.msg:54": {
+"line": 1,
+"lines": 4,
+"msg": 8,
+"width": 14
+},
+"src/main_segment/dm_manual_main.msg:55": {
+"line": 2,
+"lines": 4,
+"msg": 8,
+"width": 14
+},
+"src/main_segment/dm_manual_main.msg:56": {
+"line": 3,
+"lines": 4,
+"msg": 8,
+"width": 14
+},
+"src/main_segment/dm_manual_main.msg:6": {
+"line": 2,
+"lines": 4,
+"msg": 1,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:60": {
+"line": 0,
+"lines": 4,
+"msg": 9,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:61": {
+"line": 1,
+"lines": 4,
+"msg": 9,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:62": {
+"line": 2,
+"lines": 4,
+"msg": 9,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:63": {
+"line": 3,
+"lines": 4,
+"msg": 9,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:67": {
+"line": 0,
+"lines": 4,
+"msg": 10,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:68": {
+"line": 1,
+"lines": 4,
+"msg": 10,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:69": {
+"line": 2,
+"lines": 4,
+"msg": 10,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:7": {
+"line": 3,
+"lines": 4,
+"msg": 1,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:70": {
+"line": 3,
+"lines": 4,
+"msg": 10,
+"width": 16
+},
+"src/main_segment/dm_manual_main.msg:74": {
+"line": 0,
+"lines": 3,
+"msg": 11,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:75": {
+"line": 1,
+"lines": 3,
+"msg": 11,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:76": {
+"line": 2,
+"lines": 3,
+"msg": 11,
+"width": 17
+},
+"src/main_segment/dm_manual_main.msg:79": {
+"line": 0,
+"lines": 4,
+"msg": 12,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:80": {
+"line": 1,
+"lines": 4,
+"msg": 12,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:81": {
+"line": 2,
+"lines": 4,
+"msg": 12,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:82": {
+"line": 3,
+"lines": 4,
+"msg": 12,
+"width": 15
+},
+"src/main_segment/dm_manual_main.msg:86": {
+"line": 0,
+"lines": 3,
+"msg": 13,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:87": {
+"line": 1,
+"lines": 3,
+"msg": 13,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:88": {
+"line": 2,
+"lines": 3,
+"msg": 13,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:91": {
+"line": 0,
+"lines": 4,
+"msg": 14,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:92": {
+"line": 1,
+"lines": 4,
+"msg": 14,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:93": {
+"line": 2,
+"lines": 4,
+"msg": 14,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:94": {
+"line": 3,
+"lines": 4,
+"msg": 14,
+"width": 18
+},
+"src/main_segment/dm_manual_main.msg:99": {
+"line": 0,
+"lines": 4,
+"msg": 15,
+"width": 15
+},
+"src/main_segment/dm_title_main.msg:0": {
+"line": 0,
+"lines": 2,
+"msg": 0,
+"width": 25
+},
+"src/main_segment/dm_title_main.msg:1": {
+"line": 1,
+"lines": 2,
+"msg": 0,
+"width": 25
+},
+"src/main_segment/dm_title_main.msg:3": {
+"line": 0,
+"lines": 4,
+"msg": 1,
+"width": 27
+},
+"src/main_segment/dm_title_main.msg:4": {
+"line": 1,
+"lines": 4,
+"msg": 1,
+"width": 27
+},
+"src/main_segment/dm_title_main.msg:5": {
+"line": 2,
+"lines": 4,
+"msg": 1,
+"width": 27
+},
+"src/main_segment/dm_title_main.msg:6": {
+"line": 3,
+"lines": 4,
+"msg": 1,
+"width": 27
+},
+"src/main_segment/dm_title_main.msg:8": {
+"line": 0,
+"lines": 2,
+"msg": 2,
+"width": 39
+},
+"src/main_segment/dm_title_main.msg:9": {
+"line": 1,
+"lines": 2,
+"msg": 2,
+"width": 39
+},
+"src/main_segment/main_menu.msg:0": {
+"line": 0,
+"lines": 2,
+"msg": 0,
+"width": 16
+},
+"src/main_segment/main_menu.msg:1": {
+"line": 1,
+"lines": 2,
+"msg": 0,
+"width": 16
+},
+"src/main_segment/main_menu.msg:113": {
+"line": 0,
+"lines": 20,
+"msg": 7,
+"width": 18
+},
+"src/main_segment/main_menu.msg:114": {
+"line": 1,
+"lines": 20,
+"msg": 7,
+"width": 18
+},
+"src/main_segment/main_menu.msg:115": {
+"line": 2,
+"lines": 20,
+"msg": 7,
+"width": 18
+},
+"src/main_segment/main_menu.msg:116": {
+"line": 3,
+"lines": 20,
+"msg": 7,
+"width": 18
+},
+"src/main_segment/main_menu.msg:117": {
+"line": 4,
+"lines": 20,
+"msg": 7,
+"width": 18
+},
+"src/main_segment/main_menu.msg:118": {
+"line": 5,
+"lines": 20,
+"msg": 7,
+"width": 18
+},
+"src/main_segment/main_menu.msg:119": {
+"line": 6,
+"lines": 20,
+"msg": 7,
+"width": 18
+},
+"src/main_segment/main_menu.msg:12": {
+"line": 0,
+"lines": 3,
+"msg": 3,
+"width": 15
+},
+"src/main_segment/main_menu.msg:120": {
+"line": 7,
+"lines": 20,
+"msg": 7,
+"width": 18
+},
+"src/main_segment/main_menu.msg:121": {
+"line": 8,
+"lines": 20,
+"msg": 7,
+"width": 18
+},
+"src/main_segment/main_menu.msg:122": {
+"line": 9,
+"lines": 20,
+"msg": 7,
+"width": 18
+},
+"src/main_segment/main_menu.msg:123": {
+"line": 10,
+"lines": 20,
+"msg": 7,
+"width": 18
+},
+"src/main_segment/main_menu.msg:124": {
+"line": 11,
+"lines": 20,
+"msg": 7,
+"width": 18
+},
+"src/main_segment/main_menu.msg:125": {
+"line": 12,
+"lines": 20,
+"msg": 7,
+"width": 18
+},
+"src/main_segment/main_menu.msg:126": {
+"line": 13,
+"lines": 20,
+"msg": 7,
+"width": 18
+},
+"src/main_segment/main_menu.msg:127": {
+"line": 14,
+"lines": 20,
+"msg": 7,
+"width": 18
+},
+"src/main_segment/main_menu.msg:128": {
+"line": 15,
+"lines": 20,
+"msg": 7,
+"width": 18
+},
+"src/main_segment/main_menu.msg:129": {
+"line": 16,
+"lines": 20,
+"msg": 7,
+"width": 18
+},
+"src/main_segment/main_menu.msg:13": {
+"line": 1,
+"lines": 3,
+"msg": 3,
+"width": 15
+},
+"src/main_segment/main_menu.msg:130": {
+"line": 17,
+"lines": 20,
+"msg": 7,
+"width": 18
+},
+"src/main_segment/main_menu.msg:131": {
+"line": 18,
+"lines": 20,
+"msg": 7,
+"width": 18
+},
+"src/main_segment/main_menu.msg:132": {
+"line": 19,
+"lines": 20,
+"msg": 7,
+"width": 18
+},
+"src/main_segment/main_menu.msg:14": {
+"line": 2,
+"lines": 3,
+"msg": 3,
+"width": 15
+},
+"src/main_segment/main_menu.msg:147": {
+"line": 0,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:148": {
+"line": 1,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:149": {
+"line": 2,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:150": {
+"line": 3,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:151": {
+"line": 4,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:152": {
+"line": 5,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:153": {
+"line": 6,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:154": {
+"line": 7,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:155": {
+"line": 8,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:156": {
+"line": 9,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:157": {
+"line": 10,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:158": {
+"line": 11,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:159": {
+"line": 12,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:160": {
+"line": 13,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:161": {
+"line": 14,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:162": {
+"line": 15,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:163": {
+"line": 16,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:164": {
+"line": 17,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:165": {
+"line": 18,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:166": {
+"line": 19,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:167": {
+"line": 20,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:168": {
+"line": 21,
+"lines": 22,
+"msg": 8,
+"width": 18
+},
+"src/main_segment/main_menu.msg:17": {
+"line": 0,
+"lines": 17,
+"msg": 4,
+"width": 18
+},
+"src/main_segment/main_menu.msg:18": {
+"line": 1,
+"lines": 17,
+"msg": 4,
+"width": 18
+},
+"src/main_segment/main_menu.msg:183": {
+"line": 0,
+"lines": 16,
+"msg": 9,
+"width": 18
+},
+"src/main_segment/main_menu.msg:184": {
+"line": 1,
+"lines": 16,
+"msg": 9,
+"width": 18
+},
+"src/main_segment/main_menu.msg:185": {
+"line": 2,
+"lines": 16,
+"msg": 9,
+"width": 18
+},
+"src/main_segment/main_menu.msg:186": {
+"line": 3,
+"lines": 16,
+"msg": 9,
+"width": 18
+},
+"src/main_segment/main_menu.msg:187": {
+"line": 4,
+"lines": 16,
+"msg": 9,
+"width": 18
+},
+"src/main_segment/main_menu.msg:188": {
+"line": 5,
+"lines": 16,
+"msg": 9,
+"width": 18
+},
+"src/main_segment/main_menu.msg:189": {
+"line": 6,
+"lines": 16,
+"msg": 9,
+"width": 18
+},
+"src/main_segment/main_menu.msg:19": {
+"line": 2,
+"lines": 17,
+"msg": 4,
+"width": 18
+},
+"src/main_segment/main_menu.msg:190": {
+"line": 7,
+"lines": 16,
+"msg": 9,
+"width": 18
+},
+"src/main_segment/main_menu.msg:191": {
+"line": 8,
+"lines": 16,
+"msg": 9,
+"width": 18
+},
+"src/main_segment/main_menu.msg:192": {
+"line": 9,
+"lines": 16,
+"msg": 9,
+"width": 18
+},
+"src/main_segment/main_menu.msg:193": {
+"line": 10,
+"lines": 16,
+"msg": 9,
+"width": 18
+},
+"src/main_segment/main_menu.msg:194": {
+"line": 11,
+"lines": 16,
+"msg": 9,
+"width": 18
+},
+"src/main_segment/main_menu.msg:195": {
+"line": 12,
+"lines": 16,
+"msg": 9,
+"width": 18
+},
+"src/main_segment/main_menu.msg:196": {
+"line": 13,
+"lines": 16,
+"msg": 9,
+"width": 18
+},
+"src/main_segment/main_menu.msg:197": {
+"line": 14,
+"lines": 16,
+"msg": 9,
+"width": 18
+},
+"src/main_segment/main_menu.msg:198": {
+"line": 15,
+"lines": 16,
+"msg": 9,
+"width": 18
+},
+"src/main_segment/main_menu.msg:20": {
+"line": 3,
+"lines": 17,
+"msg": 4,
+"width": 18
+},
+"src/main_segment/main_menu.msg:209": {
+"line": 0,
+"lines": 6,
+"msg": 10,
+"width": 17
+},
+"src/main_segment/main_menu.msg:21": {
+"line": 4,
+"lines": 17,
+"msg": 4,
+"width": 18
+},
+"src/main_segment/main_menu.msg:210": {
+"line": 1,
+"lines": 6,
+"msg": 10,
+"width": 17
+},
+"src/main_segment/main_menu.msg:211": {
+"line": 2,
+"lines": 6,
+"msg": 10,
+"width": 17
+},
+"src/main_segment/main_menu.msg:212": {
+"line": 3,
+"lines": 6,
+"msg": 10,
+"width": 17
+},
+"src/main_segment/main_menu.msg:213": {
+"line": 4,
+"lines": 6,
+"msg": 10,
+"width": 17
+},
+"src/main_segment/main_menu.msg:214": {
+"line": 5,
+"lines": 6,
+"msg": 10,
+"width": 17
+},
+"src/main_segment/main_menu.msg:219": {
+"line": 0,
+"lines": 2,
+"msg": 11,
+"width": 12
+},
+"src/main_segment/main_menu.msg:22": {
+"line": 5,
+"lines": 17,
+"msg": 4,
+"width": 18
+},
+"src/main_segment/main_menu.msg:220": {
+"line": 1,
+"lines": 2,
+"msg": 11,
+"width": 12
+},
+"src/main_segment/main_menu.msg:222": {
+"line": 0,
+"lines": 16,
+"msg": 12,
+"width": 18
+},
+"src/main_segment/main_menu.msg:223": {
+"line": 1,
+"lines": 16,
+"msg": 12,
+"width": 18
+},
+"src/main_segment/main_menu.msg:224": {
+"line": 2,
+"lines": 16,
+"msg": 12,
+"width": 18
+},
+"src/main_segment/main_menu.msg:225": {
+"line": 3,
+"lines": 16,
+"msg": 12,
+"width": 18
+},
+"src/main_segment/main_menu.msg:226": {
+"line": 4,
+"lines": 16,
+"msg": 12,
+"width": 18
+},
+"src/main_segment/main_menu.msg:227": {
+"line": 5,
+"lines": 16,
+"msg": 12,
+"width": 18
+},
+"src/main_segment/main_menu.msg:228": {
+"line": 6,
+"lines": 16,
+"msg": 12,
+"width": 18
+},
+"src/main_segment/main_menu.msg:229": {
+"line": 7,
+"lines": 16,
+"msg": 12,
+"width": 18
+},
+"src/main_segment/main_menu.msg:23": {
+"line": 6,
+"lines": 17,
+"msg": 4,
+"width": 18
+},
+"src/main_segment/main_menu.msg:230": {
+"line": 8,
+"lines": 16,
+"msg": 12,
+"width": 18
+},
+"src/main_segment/main_menu.msg:231": {
+"line": 9,
+"lines": 16,
+"msg": 12,
+"width": 18
+},
+"src/main_segment/main_menu.msg:232": {
+"line": 10,
+"lines": 16,
+"msg": 12,
+"width": 18
+},
+"src/main_segment/main_menu.msg:233": {
+"line": 11,
+"lines": 16,
+"msg": 12,
+"width": 18
+},
+"src/main_segment/main_menu.msg:234": {
+"line": 12,
+"lines": 16,
+"msg": 12,
+"width": 18
+},
+"src/main_segment/main_menu.msg:235": {
+"line": 13,
+"lines": 16,
+"msg": 12,
+"width": 18
+},
+"src/main_segment/main_menu.msg:236": {
+"line": 14,
+"lines": 16,
+"msg": 12,
+"width": 18
+},
+"src/main_segment/main_menu.msg:237": {
+"line": 15,
+"lines": 16,
+"msg": 12,
+"width": 18
+},
+"src/main_segment/main_menu.msg:24": {
+"line": 7,
+"lines": 17,
+"msg": 4,
+"width": 18
+},
+"src/main_segment/main_menu.msg:249": {
+"line": 0,
+"lines": 14,
+"msg": 13,
+"width": 18
+},
+"src/main_segment/main_menu.msg:25": {
+"line": 8,
+"lines": 17,
+"msg": 4,
+"width": 18
+},
+"src/main_segment/main_menu.msg:250": {
+"line": 1,
+"lines": 14,
+"msg": 13,
+"width": 18
+},
+"src/main_segment/main_menu.msg:251": {
+"line": 2,
+"lines": 14,
+"msg": 13,
+"width": 18
+},
+"src/main_segment/main_menu.msg:252": {
+"line": 3,
+"lines": 14,
+"msg": 13,
+"width": 18
+},
+"src/main_segment/main_menu.msg:253": {
+"line": 4,
+"lines": 14,
+"msg": 13,
+"width": 18
+},
+"src/main_segment/main_menu.msg:254": {
+"line": 5,
+"lines": 14,
+"msg": 13,
+"width": 18
+},
+"src/main_segment/main_menu.msg:255": {
+"line": 6,
+"lines": 14,
+"msg": 13,
+"width": 18
+},
+"src/main_segment/main_menu.msg:256": {
+"line": 7,
+"lines": 14,
+"msg": 13,
+"width": 18
+},
+"src/main_segment/main_menu.msg:257": {
+"line": 8,
+"lines": 14,
+"msg": 13,
+"width": 18
+},
+"src/main_segment/main_menu.msg:258": {
+"line": 9,
+"lines": 14,
+"msg": 13,
+"width": 18
+},
+"src/main_segment/main_menu.msg:259": {
+"line": 10,
+"lines": 14,
+"msg": 13,
+"width": 18
+},
+"src/main_segment/main_menu.msg:26": {
+"line": 9,
+"lines": 17,
+"msg": 4,
+"width": 18
+},
+"src/main_segment/main_menu.msg:260": {
+"line": 11,
+"lines": 14,
+"msg": 13,
+"width": 18
+},
+"src/main_segment/main_menu.msg:261": {
+"line": 12,
+"lines": 14,
+"msg": 13,
+"width": 18
+},
+"src/main_segment/main_menu.msg:262": {
+"line": 13,
+"lines": 14,
+"msg": 13,
+"width": 18
+},
+"src/main_segment/main_menu.msg:27": {
+"line": 10,
+"lines": 17,
+"msg": 4,
+"width": 18
+},
+"src/main_segment/main_menu.msg:272": {
+"line": 0,
+"lines": 16,
+"msg": 14,
+"width": 18
+},
+"src/main_segment/main_menu.msg:273": {
+"line": 1,
+"lines": 16,
+"msg": 14,
+"width": 18
+},
+"src/main_segment/main_menu.msg:274": {
+"line": 2,
+"lines": 16,
+"msg": 14,
+"width": 18
+},
+"src/main_segment/main_menu.msg:275": {
+"line": 3,
+"lines": 16,
+"msg": 14,
+"width": 18
+},
+"src/main_segment/main_menu.msg:276": {
+"line": 4,
+"lines": 16,
+"msg": 14,
+"width": 18
+},
+"src/main_segment/main_menu.msg:277": {
+"line": 5,
+"lines": 16,
+"msg": 14,
+"width": 18
+},
+"src/main_segment/main_menu.msg:278": {
+"line": 6,
+"lines": 16,
+"msg": 14,
+"width": 18
+},
+"src/main_segment/main_menu.msg:279": {
+"line": 7,
+"lines": 16,
+"msg": 14,
+"width": 18
+},
+"src/main_segment/main_menu.msg:28": {
+"line": 11,
+"lines": 17,
+"msg": 4,
+"width": 18
+},
+"src/main_segment/main_menu.msg:280": {
+"line": 8,
+"lines": 16,
+"msg": 14,
+"width": 18
+},
+"src/main_segment/main_menu.msg:281": {
+"line": 9,
+"lines": 16,
+"msg": 14,
+"width": 18
+},
+"src/main_segment/main_menu.msg:282": {
+"line": 10,
+"lines": 16,
+"msg": 14,
+"width": 18
+},
+"src/main_segment/main_menu.msg:283": {
+"line": 11,
+"lines": 16,
+"msg": 14,
+"width": 18
+},
+"src/main_segment/main_menu.msg:284": {
+"line": 12,
+"lines": 16,
+"msg": 14,
+"width": 18
+},
+"src/main_segment/main_menu.msg:285": {
+"line": 13,
+"lines": 16,
+"msg": 14,
+"width": 18
+},
+"src/main_segment/main_menu.msg:286": {
+"line": 14,
+"lines": 16,
+"msg": 14,
+"width": 18
+},
+"src/main_segment/main_menu.msg:287": {
+"line": 15,
+"lines": 16,
+"msg": 14,
+"width": 18
+},
+"src/main_segment/main_menu.msg:29": {
+"line": 12,
+"lines": 17,
+"msg": 4,
+"width": 18
+},
+"src/main_segment/main_menu.msg:298": {
+"line": 0,
+"lines": 1,
+"msg": 15,
+"width": 17
+},
+"src/main_segment/main_menu.msg:3": {
+"line": 0,
+"lines": 2,
+"msg": 1,
+"width": 16
+},
+"src/main_segment/main_menu.msg:30": {
+"line": 13,
+"lines": 17,
+"msg": 4,
+"width": 18
+},
+"src/main_segment/main_menu.msg:300": {
+"line": 0,
+"lines": 20,
+"msg": 16,
+"width": 18
+},
+"src/main_segment/main_menu.msg:301": {
+"line": 1,
+"lines": 20,
+"msg": 16,
+"width": 18
+},
+"src/main_segment/main_menu.msg:302": {
+"line": 2,
+"lines": 20,
+"msg": 16,
+"width": 18
+},
+"src/main_segment/main_menu.msg:303": {
+"line": 3,
+"lines": 20,
+"msg": 16,
+"width": 18
+},
+"src/main_segment/main_menu.msg:304": {
+"line": 4,
+"lines": 20,
+"msg": 16,
+"width": 18
+},
+"src/main_segment/main_menu.msg:305": {
+"line": 5,
+"lines": 20,
+"msg": 16,
+"width": 18
+},
+"src/main_segment/main_menu.msg:306": {
+"line": 6,
+"lines": 20,
+"msg": 16,
+"width": 18
+},
+"src/main_segment/main_menu.msg:307": {
+"line": 7,
+"lines": 20,
+"msg": 16,
+"width": 18
+},
+"src/main_segment/main_menu.msg:308": {
+"line": 8,
+"lines": 20,
+"msg": 16,
+"width": 18
+},
+"src/main_segment/main_menu.msg:309": {
+"line": 9,
+"lines": 20,
+"msg": 16,
+"width": 18
+},
+"src/main_segment/main_menu.msg:31": {
+"line": 14,
+"lines": 17,
+"msg": 4,
+"width": 18
+},
+"src/main_segment/main_menu.msg:310": {
+"line": 10,
+"lines": 20,
+"msg": 16,
+"width": 18
+},
+"src/main_segment/main_menu.msg:311": {
+"line": 11,
+"lines": 20,
+"msg": 16,
+"width": 18
+},
+"src/main_segment/main_menu.msg:312": {
+"line": 12,
+"lines": 20,
+"msg": 16,
+"width": 18
+},
+"src/main_segment/main_menu.msg:313": {
+"line": 13,
+"lines": 20,
+"msg": 16,
+"width": 18
+},
+"src/main_segment/main_menu.msg:314": {
+"line": 14,
+"lines": 20,
+"msg": 16,
+"width": 18
+},
+"src/main_segment/main_menu.msg:315": {
+"line": 15,
+"lines": 20,
+"msg": 16,
+"width": 18
+},
+"src/main_segment/main_menu.msg:316": {
+"line": 16,
+"lines": 20,
+"msg": 16,
+"width": 18
+},
+"src/main_segment/main_menu.msg:317": {
+"line": 17,
+"lines": 20,
+"msg": 16,
+"width": 18
+},
+"src/main_segment/main_menu.msg:318": {
+"line": 18,
+"lines": 20,
+"msg": 16,
+"width": 18
+},
+"src/main_segment/main_menu.msg:319": {
+"line": 19,
+"lines": 20,
+"msg": 16,
+"width": 18
+},
+"src/main_segment/main_menu.msg:32": {
+"line": 15,
+"lines": 17,
+"msg": 4,
+"width": 18
+},
+"src/main_segment/main_menu.msg:33": {
+"line": 16,
+"lines": 17,
+"msg": 4,
+"width": 18
+},
+"src/main_segment/main_menu.msg:333": {
+"line": 0,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:334": {
+"line": 1,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:335": {
+"line": 2,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:336": {
+"line": 3,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:337": {
+"line": 4,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:338": {
+"line": 5,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:339": {
+"line": 6,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:340": {
+"line": 7,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:341": {
+"line": 8,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:342": {
+"line": 9,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:343": {
+"line": 10,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:344": {
+"line": 11,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:345": {
+"line": 12,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:346": {
+"line": 13,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:347": {
+"line": 14,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:348": {
+"line": 15,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:349": {
+"line": 16,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:350": {
+"line": 17,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:351": {
+"line": 18,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:352": {
+"line": 19,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:353": {
+"line": 20,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:354": {
+"line": 21,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:355": {
+"line": 22,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:356": {
+"line": 23,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:357": {
+"line": 24,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:358": {
+"line": 25,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:359": {
+"line": 26,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:360": {
+"line": 27,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:361": {
+"line": 28,
+"lines": 29,
+"msg": 17,
+"width": 19
+},
+"src/main_segment/main_menu.msg:381": {
+"line": 0,
+"lines": 18,
+"msg": 18,
+"width": 18
+},
+"src/main_segment/main_menu.msg:382": {
+"line": 1,
+"lines": 18,
+"msg": 18,
+"width": 18
+},
+"src/main_segment/main_menu.msg:383": {
+"line": 2,
+"lines": 18,
+"msg": 18,
+"width": 18
+},
+"src/main_segment/main_menu.msg:384": {
+"line": 3,
+"lines": 18,
+"msg": 18,
+"width": 18
+},
+"src/main_segment/main_menu.msg:385": {
+"line": 4,
+"lines": 18,
+"msg": 18,
+"width": 18
+},
+"src/main_segment/main_menu.msg:386": {
+"line": 5,
+"lines": 18,
+"msg": 18,
+"width": 18
+},
+"src/main_segment/main_menu.msg:387": {
+"line": 6,
+"lines": 18,
+"msg": 18,
+"width": 18
+},
+"src/main_segment/main_menu.msg:388": {
+"line": 7,
+"lines": 18,
+"msg": 18,
+"width": 18
+},
+"src/main_segment/main_menu.msg:389": {
+"line": 8,
+"lines": 18,
+"msg": 18,
+"width": 18
+},
+"src/main_segment/main_menu.msg:390": {
+"line": 9,
+"lines": 18,
+"msg": 18,
+"width": 18
+},
+"src/main_segment/main_menu.msg:391": {
+"line": 10,
+"lines": 18,
+"msg": 18,
+"width": 18
+},
+"src/main_segment/main_menu.msg:392": {
+"line": 11,
+"lines": 18,
+"msg": 18,
+"width": 18
+},
+"src/main_segment/main_menu.msg:393": {
+"line": 12,
+"lines": 18,
+"msg": 18,
+"width": 18
+},
+"src/main_segment/main_menu.msg:394": {
+"line": 13,
+"lines": 18,
+"msg": 18,
+"width": 18
+},
+"src/main_segment/main_menu.msg:395": {
+"line": 14,
+"lines": 18,
+"msg": 18,
+"width": 18
+},
+"src/main_segment/main_menu.msg:396": {
+"line": 15,
+"lines": 18,
+"msg": 18,
+"width": 18
+},
+"src/main_segment/main_menu.msg:397": {
+"line": 16,
+"lines": 18,
+"msg": 18,
+"width": 18
+},
+"src/main_segment/main_menu.msg:398": {
+"line": 17,
+"lines": 18,
+"msg": 18,
+"width": 18
+},
+"src/main_segment/main_menu.msg:4": {
+"line": 1,
+"lines": 2,
+"msg": 1,
+"width": 16
+},
+"src/main_segment/main_menu.msg:411": {
+"line": 0,
+"lines": 3,
+"msg": 19,
+"width": 13
+},
+"src/main_segment/main_menu.msg:412": {
+"line": 1,
+"lines": 3,
+"msg": 19,
+"width": 13
+},
+"src/main_segment/main_menu.msg:413": {
+"line": 2,
+"lines": 3,
+"msg": 19,
+"width": 13
+},
+"src/main_segment/main_menu.msg:416": {
+"line": 0,
+"lines": 3,
+"msg": 20,
+"width": 15
+},
+"src/main_segment/main_menu.msg:417": {
+"line": 1,
+"lines": 3,
+"msg": 20,
+"width": 15
+},
+"src/main_segment/main_menu.msg:418": {
+"line": 2,
+"lines": 3,
+"msg": 20,
+"width": 15
+},
+"src/main_segment/main_menu.msg:421": {
+"line": 0,
+"lines": 3,
+"msg": 21,
+"width": 17
+},
+"src/main_segment/main_menu.msg:422": {
+"line": 1,
+"lines": 3,
+"msg": 21,
+"width": 17
+},
+"src/main_segment/main_menu.msg:423": {
+"line": 2,
+"lines": 3,
+"msg": 21,
+"width": 17
+},
+"src/main_segment/main_menu.msg:426": {
+"line": 0,
+"lines": 3,
+"msg": 22,
+"width": 17
+},
+"src/main_segment/main_menu.msg:427": {
+"line": 1,
+"lines": 3,
+"msg": 22,
+"width": 17
+},
+"src/main_segment/main_menu.msg:428": {
+"line": 2,
+"lines": 3,
+"msg": 22,
+"width": 17
+},
+"src/main_segment/main_menu.msg:431": {
+"line": 0,
+"lines": 6,
+"msg": 23,
+"width": 17
+},
+"src/main_segment/main_menu.msg:432": {
+"line": 1,
+"lines": 6,
+"msg": 23,
+"width": 17
+},
+"src/main_segment/main_menu.msg:433": {
+"line": 2,
+"lines": 6,
+"msg": 23,
+"width": 17
+},
+"src/main_segment/main_menu.msg:434": {
+"line": 3,
+"lines": 6,
+"msg": 23,
+"width": 17
+},
+"src/main_segment/main_menu.msg:435": {
+"line": 4,
+"lines": 6,
+"msg": 23,
+"width": 17
+},
+"src/main_segment/main_menu.msg:436": {
+"line": 5,
+"lines": 6,
+"msg": 23,
+"width": 17
+},
+"src/main_segment/main_menu.msg:441": {
+"line": 0,
+"lines": 3,
+"msg": 24,
+"width": 15
+},
+"src/main_segment/main_menu.msg:442": {
+"line": 1,
+"lines": 3,
+"msg": 24,
+"width": 15
+},
+"src/main_segment/main_menu.msg:443": {
+"line": 2,
+"lines": 3,
+"msg": 24,
+"width": 15
+},
+"src/main_segment/main_menu.msg:446": {
+"line": 0,
+"lines": 3,
+"msg": 25,
+"width": 17
+},
+"src/main_segment/main_menu.msg:447": {
+"line": 1,
+"lines": 3,
+"msg": 25,
+"width": 17
+},
+"src/main_segment/main_menu.msg:448": {
+"line": 2,
+"lines": 3,
+"msg": 25,
+"width": 17
+},
+"src/main_segment/main_menu.msg:451": {
+"line": 0,
+"lines": 2,
+"msg": 26,
+"width": 17
+},
+"src/main_segment/main_menu.msg:452": {
+"line": 1,
+"lines": 2,
+"msg": 26,
+"width": 17
+},
+"src/main_segment/main_menu.msg:454": {
+"line": 0,
+"lines": 3,
+"msg": 27,
+"width": 14
+},
+"src/main_segment/main_menu.msg:455": {
+"line": 1,
+"lines": 3,
+"msg": 27,
+"width": 14
+},
+"src/main_segment/main_menu.msg:456": {
+"line": 2,
+"lines": 3,
+"msg": 27,
+"width": 14
+},
+"src/main_segment/main_menu.msg:459": {
+"line": 0,
+"lines": 3,
+"msg": 28,
+"width": 14
+},
+"src/main_segment/main_menu.msg:460": {
+"line": 1,
+"lines": 3,
+"msg": 28,
+"width": 14
+},
+"src/main_segment/main_menu.msg:461": {
+"line": 2,
+"lines": 3,
+"msg": 28,
+"width": 14
+},
+"src/main_segment/main_menu.msg:464": {
+"line": 0,
+"lines": 3,
+"msg": 29,
+"width": 16
+},
+"src/main_segment/main_menu.msg:465": {
+"line": 1,
+"lines": 3,
+"msg": 29,
+"width": 16
+},
+"src/main_segment/main_menu.msg:466": {
+"line": 2,
+"lines": 3,
+"msg": 29,
+"width": 16
+},
+"src/main_segment/main_menu.msg:469": {
+"line": 0,
+"lines": 4,
+"msg": 30,
+"width": 15
+},
+"src/main_segment/main_menu.msg:47": {
+"line": 0,
+"lines": 18,
+"msg": 5,
+"width": 18
+},
+"src/main_segment/main_menu.msg:470": {
+"line": 1,
+"lines": 4,
+"msg": 30,
+"width": 15
+},
+"src/main_segment/main_menu.msg:471": {
+"line": 2,
+"lines": 4,
+"msg": 30,
+"width": 15
+},
+"src/main_segment/main_menu.msg:472": {
+"line": 3,
+"lines": 4,
+"msg": 30,
+"width": 15
+},
+"src/main_segment/main_menu.msg:475": {
+"line": 0,
+"lines": 4,
+"msg": 31,
+"width": 15
+},
+"src/main_segment/main_menu.msg:476": {
+"line": 1,
+"lines": 4,
+"msg": 31,
+"width": 15
+},
+"src/main_segment/main_menu.msg:477": {
+"line": 2,
+"lines": 4,
+"msg": 31,
+"width": 15
+},
+"src/main_segment/main_menu.msg:478": {
+"line": 3,
+"lines": 4,
+"msg": 31,
+"width": 15
+},
+"src/main_segment/main_menu.msg:48": {
+"line": 1,
+"lines": 18,
+"msg": 5,
+"width": 18
+},
+"src/main_segment/main_menu.msg:481": {
+"line": 0,
+"lines": 2,
+"msg": 32,
+"width": 16
+},
+"src/main_segment/main_menu.msg:482": {
+"line": 1,
+"lines": 2,
+"msg": 32,
+"width": 16
+},
+"src/main_segment/main_menu.msg:485": {
+"line": 0,
+"lines": 3,
+"msg": 33,
+"width": 15
+},
+"src/main_segment/main_menu.msg:486": {
+"line": 1,
+"lines": 3,
+"msg": 33,
+"width": 15
+},
+"src/main_segment/main_menu.msg:487": {
+"line": 2,
+"lines": 3,
+"msg": 33,
+"width": 15
+},
+"src/main_segment/main_menu.msg:49": {
+"line": 2,
+"lines": 18,
+"msg": 5,
+"width": 18
+},
+"src/main_segment/main_menu.msg:490": {
+"line": 0,
+"lines": 7,
+"msg": 34,
+"width": 16
+},
+"src/main_segment/main_menu.msg:491": {
+"line": 1,
+"lines": 7,
+"msg": 34,
+"width": 16
+},
+"src/main_segment/main_menu.msg:492": {
+"line": 2,
+"lines": 7,
+"msg": 34,
+"width": 16
+},
+"src/main_segment/main_menu.msg:493": {
+"line": 3,
+"lines": 7,
+"msg": 34,
+"width": 16
+},
+"src/main_segment/main_menu.msg:494": {
+"line": 4,
+"lines": 7,
+"msg": 34,
+"width": 16
+},
+"src/main_segment/main_menu.msg:495": {
+"line": 5,
+"lines": 7,
+"msg": 34,
+"width": 16
+},
+"src/main_segment/main_menu.msg:496": {
+"line": 6,
+"lines": 7,
+"msg": 34,
+"width": 16
+},
+"src/main_segment/main_menu.msg:50": {
+"line": 3,
+"lines": 18,
+"msg": 5,
+"width": 18
+},
+"src/main_segment/main_menu.msg:502": {
+"line": 0,
+"lines": 3,
+"msg": 35,
+"width": 18
+},
+"src/main_segment/main_menu.msg:503": {
+"line": 1,
+"lines": 3,
+"msg": 35,
+"width": 18
+},
+"src/main_segment/main_menu.msg:504": {
+"line": 2,
+"lines": 3,
+"msg": 35,
+"width": 18
+},
+"src/main_segment/main_menu.msg:507": {
+"line": 0,
+"lines": 3,
+"msg": 36,
+"width": 17
+},
+"src/main_segment/main_menu.msg:508": {
+"line": 1,
+"lines": 3,
+"msg": 36,
+"width": 17
+},
+"src/main_segment/main_menu.msg:509": {
+"line": 2,
+"lines": 3,
+"msg": 36,
+"width": 17
+},
+"src/main_segment/main_menu.msg:51": {
+"line": 4,
+"lines": 18,
+"msg": 5,
+"width": 18
+},
+"src/main_segment/main_menu.msg:512": {
+"line": 0,
+"lines": 4,
+"msg": 37,
+"width": 16
+},
+"src/main_segment/main_menu.msg:513": {
+"line": 1,
+"lines": 4,
+"msg": 37,
+"width": 16
+},
+"src/main_segment/main_menu.msg:514": {
+"line": 2,
+"lines": 4,
+"msg": 37,
+"width": 16
+},
+"src/main_segment/main_menu.msg:515": {
+"line": 3,
+"lines": 4,
+"msg": 37,
+"width": 16
+},
+"src/main_segment/main_menu.msg:518": {
+"line": 0,
+"lines": 2,
+"msg": 38,
+"width": 15
+},
+"src/main_segment/main_menu.msg:519": {
+"line": 1,
+"lines": 2,
+"msg": 38,
+"width": 15
+},
+"src/main_segment/main_menu.msg:52": {
+"line": 5,
+"lines": 18,
+"msg": 5,
+"width": 18
+},
+"src/main_segment/main_menu.msg:521": {
+"line": 0,
+"lines": 2,
+"msg": 39,
+"width": 14
+},
+"src/main_segment/main_menu.msg:522": {
+"line": 1,
+"lines": 2,
+"msg": 39,
+"width": 14
+},
+"src/main_segment/main_menu.msg:524": {
+"line": 0,
+"lines": 6,
+"msg": 40,
+"width": 18
+},
+"src/main_segment/main_menu.msg:525": {
+"line": 1,
+"lines": 6,
+"msg": 40,
+"width": 18
+},
+"src/main_segment/main_menu.msg:526": {
+"line": 2,
+"lines": 6,
+"msg": 40,
+"width": 18
+},
+"src/main_segment/main_menu.msg:527": {
+"line": 3,
+"lines": 6,
+"msg": 40,
+"width": 18
+},
+"src/main_segment/main_menu.msg:528": {
+"line": 4,
+"lines": 6,
+"msg": 40,
+"width": 18
+},
+"src/main_segment/main_menu.msg:529": {
+"line": 5,
+"lines": 6,
+"msg": 40,
+"width": 18
+},
+"src/main_segment/main_menu.msg:53": {
+"line": 6,
+"lines": 18,
+"msg": 5,
+"width": 18
+},
+"src/main_segment/main_menu.msg:533": {
+"line": 0,
+"lines": 3,
+"msg": 41,
+"width": 17
+},
+"src/main_segment/main_menu.msg:534": {
+"line": 1,
+"lines": 3,
+"msg": 41,
+"width": 17
+},
+"src/main_segment/main_menu.msg:535": {
+"line": 2,
+"lines": 3,
+"msg": 41,
+"width": 17
+},
+"src/main_segment/main_menu.msg:538": {
+"line": 0,
+"lines": 2,
+"msg": 42,
+"width": 27
+},
+"src/main_segment/main_menu.msg:539": {
+"line": 1,
+"lines": 2,
+"msg": 42,
+"width": 27
+},
+"src/main_segment/main_menu.msg:54": {
+"line": 7,
+"lines": 18,
+"msg": 5,
+"width": 18
+},
+"src/main_segment/main_menu.msg:542": {
+"line": 0,
+"lines": 2,
+"msg": 43,
+"width": 27
+},
+"src/main_segment/main_menu.msg:543": {
+"line": 1,
+"lines": 2,
+"msg": 43,
+"width": 27
+},
+"src/main_segment/main_menu.msg:546": {
+"line": 0,
+"lines": 2,
+"msg": 44,
+"width": 27
+},
+"src/main_segment/main_menu.msg:547": {
+"line": 1,
+"lines": 2,
+"msg": 44,
+"width": 27
+},
+"src/main_segment/main_menu.msg:55": {
+"line": 8,
+"lines": 18,
+"msg": 5,
+"width": 18
+},
+"src/main_segment/main_menu.msg:550": {
+"line": 0,
+"lines": 3,
+"msg": 45,
+"width": 18
+},
+"src/main_segment/main_menu.msg:551": {
+"line": 1,
+"lines": 3,
+"msg": 45,
+"width": 18
+},
+"src/main_segment/main_menu.msg:552": {
+"line": 2,
+"lines": 3,
+"msg": 45,
+"width": 18
+},
+"src/main_segment/main_menu.msg:555": {
+"line": 0,
+"lines": 3,
+"msg": 46,
+"width": 15
+},
+"src/main_segment/main_menu.msg:556": {
+"line": 1,
+"lines": 3,
+"msg": 46,
+"width": 15
+},
+"src/main_segment/main_menu.msg:557": {
+"line": 2,
+"lines": 3,
+"msg": 46,
+"width": 15
+},
+"src/main_segment/main_menu.msg:559": {
+"line": 0,
+"lines": 2,
+"msg": 47,
+"width": 22
+},
+"src/main_segment/main_menu.msg:56": {
+"line": 9,
+"lines": 18,
+"msg": 5,
+"width": 18
+},
+"src/main_segment/main_menu.msg:560": {
+"line": 1,
+"lines": 2,
+"msg": 47,
+"width": 22
+},
+"src/main_segment/main_menu.msg:563": {
+"line": 0,
+"lines": 2,
+"msg": 48,
+"width": 22
+},
+"src/main_segment/main_menu.msg:564": {
+"line": 1,
+"lines": 2,
+"msg": 48,
+"width": 22
+},
+"src/main_segment/main_menu.msg:57": {
+"line": 10,
+"lines": 18,
+"msg": 5,
+"width": 18
+},
+"src/main_segment/main_menu.msg:58": {
+"line": 11,
+"lines": 18,
+"msg": 5,
+"width": 18
+},
+"src/main_segment/main_menu.msg:59": {
+"line": 12,
+"lines": 18,
+"msg": 5,
+"width": 18
+},
+"src/main_segment/main_menu.msg:6": {
+"line": 0,
+"lines": 4,
+"msg": 2,
+"width": 16
+},
+"src/main_segment/main_menu.msg:60": {
+"line": 13,
+"lines": 18,
+"msg": 5,
+"width": 18
+},
+"src/main_segment/main_menu.msg:61": {
+"line": 14,
+"lines": 18,
+"msg": 5,
+"width": 18
+},
+"src/main_segment/main_menu.msg:62": {
+"line": 15,
+"lines": 18,
+"msg": 5,
+"width": 18
+},
+"src/main_segment/main_menu.msg:63": {
+"line": 16,
+"lines": 18,
+"msg": 5,
+"width": 18
+},
+"src/main_segment/main_menu.msg:64": {
+"line": 17,
+"lines": 18,
+"msg": 5,
+"width": 18
+},
+"src/main_segment/main_menu.msg:7": {
+"line": 1,
+"lines": 4,
+"msg": 2,
+"width": 16
+},
+"src/main_segment/main_menu.msg:78": {
+"line": 0,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_menu.msg:79": {
+"line": 1,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_menu.msg:8": {
+"line": 2,
+"lines": 4,
+"msg": 2,
+"width": 16
+},
+"src/main_segment/main_menu.msg:80": {
+"line": 2,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_menu.msg:81": {
+"line": 3,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_menu.msg:82": {
+"line": 4,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_menu.msg:83": {
+"line": 5,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_menu.msg:84": {
+"line": 6,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_menu.msg:85": {
+"line": 7,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_menu.msg:86": {
+"line": 8,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_menu.msg:87": {
+"line": 9,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_menu.msg:88": {
+"line": 10,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_menu.msg:89": {
+"line": 11,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_menu.msg:9": {
+"line": 3,
+"lines": 4,
+"msg": 2,
+"width": 16
+},
+"src/main_segment/main_menu.msg:90": {
+"line": 12,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_menu.msg:91": {
+"line": 13,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_menu.msg:92": {
+"line": 14,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_menu.msg:93": {
+"line": 15,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_menu.msg:94": {
+"line": 16,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_menu.msg:95": {
+"line": 17,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_menu.msg:96": {
+"line": 18,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_menu.msg:97": {
+"line": 19,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_menu.msg:98": {
+"line": 20,
+"lines": 21,
+"msg": 6,
+"width": 18
+},
+"src/main_segment/main_story.msg:0": {
+"line": 0,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:1": {
+"line": 1,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:10": {
+"line": 10,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:100": {
+"line": 99,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:101": {
+"line": 100,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:102": {
+"line": 101,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:103": {
+"line": 102,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:104": {
+"line": 103,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:109": {
+"line": 0,
+"lines": 3,
+"msg": 1,
+"width": 18
+},
+"src/main_segment/main_story.msg:11": {
+"line": 11,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:110": {
+"line": 1,
+"lines": 3,
+"msg": 1,
+"width": 18
+},
+"src/main_segment/main_story.msg:111": {
+"line": 2,
+"lines": 3,
+"msg": 1,
+"width": 18
+},
+"src/main_segment/main_story.msg:114": {
+"line": 0,
+"lines": 3,
+"msg": 2,
+"width": 22
+},
+"src/main_segment/main_story.msg:115": {
+"line": 1,
+"lines": 3,
+"msg": 2,
+"width": 22
+},
+"src/main_segment/main_story.msg:116": {
+"line": 2,
+"lines": 3,
+"msg": 2,
+"width": 22
+},
+"src/main_segment/main_story.msg:119": {
+"line": 0,
+"lines": 3,
+"msg": 4,
+"width": 18
+},
+"src/main_segment/main_story.msg:12": {
+"line": 12,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:120": {
+"line": 1,
+"lines": 3,
+"msg": 4,
+"width": 18
+},
+"src/main_segment/main_story.msg:121": {
+"line": 2,
+"lines": 3,
+"msg": 4,
+"width": 18
+},
+"src/main_segment/main_story.msg:124": {
+"line": 0,
+"lines": 3,
+"msg": 5,
+"width": 22
+},
+"src/main_segment/main_story.msg:125": {
+"line": 1,
+"lines": 3,
+"msg": 5,
+"width": 22
+},
+"src/main_segment/main_story.msg:126": {
+"line": 2,
+"lines": 3,
+"msg": 5,
+"width": 22
+},
+"src/main_segment/main_story.msg:129": {
+"line": 0,
+"lines": 4,
+"msg": 6,
+"width": 20
+},
+"src/main_segment/main_story.msg:13": {
+"line": 13,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:130": {
+"line": 1,
+"lines": 4,
+"msg": 6,
+"width": 20
+},
+"src/main_segment/main_story.msg:131": {
+"line": 2,
+"lines": 4,
+"msg": 6,
+"width": 20
+},
+"src/main_segment/main_story.msg:132": {
+"line": 3,
+"lines": 4,
+"msg": 6,
+"width": 20
+},
+"src/main_segment/main_story.msg:137": {
+"line": 0,
+"lines": 5,
+"msg": 8,
+"width": 17
+},
+"src/main_segment/main_story.msg:138": {
+"line": 1,
+"lines": 5,
+"msg": 8,
+"width": 17
+},
+"src/main_segment/main_story.msg:139": {
+"line": 2,
+"lines": 5,
+"msg": 8,
+"width": 17
+},
+"src/main_segment/main_story.msg:14": {
+"line": 14,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:140": {
+"line": 3,
+"lines": 5,
+"msg": 8,
+"width": 17
+},
+"src/main_segment/main_story.msg:141": {
+"line": 4,
+"lines": 5,
+"msg": 8,
+"width": 17
+},
+"src/main_segment/main_story.msg:147": {
+"line": 0,
+"lines": 2,
+"msg": 9,
+"width": 15
+},
+"src/main_segment/main_story.msg:148": {
+"line": 1,
+"lines": 2,
+"msg": 9,
+"width": 15
+},
+"src/main_segment/main_story.msg:15": {
+"line": 15,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:151": {
+"line": 0,
+"lines": 2,
+"msg": 10,
+"width": 17
+},
+"src/main_segment/main_story.msg:152": {
+"line": 1,
+"lines": 2,
+"msg": 10,
+"width": 17
+},
+"src/main_segment/main_story.msg:154": {
+"line": 0,
+"lines": 3,
+"msg": 11,
+"width": 19
+},
+"src/main_segment/main_story.msg:155": {
+"line": 1,
+"lines": 3,
+"msg": 11,
+"width": 19
+},
+"src/main_segment/main_story.msg:156": {
+"line": 2,
+"lines": 3,
+"msg": 11,
+"width": 19
+},
+"src/main_segment/main_story.msg:159": {
+"line": 0,
+"lines": 5,
+"msg": 12,
+"width": 22
+},
+"src/main_segment/main_story.msg:16": {
+"line": 16,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:160": {
+"line": 1,
+"lines": 5,
+"msg": 12,
+"width": 22
+},
+"src/main_segment/main_story.msg:161": {
+"line": 2,
+"lines": 5,
+"msg": 12,
+"width": 22
+},
+"src/main_segment/main_story.msg:162": {
+"line": 3,
+"lines": 5,
+"msg": 12,
+"width": 22
+},
+"src/main_segment/main_story.msg:163": {
+"line": 4,
+"lines": 5,
+"msg": 12,
+"width": 22
+},
+"src/main_segment/main_story.msg:168": {
+"line": 0,
+"lines": 5,
+"msg": 13,
+"width": 20
+},
+"src/main_segment/main_story.msg:169": {
+"line": 1,
+"lines": 5,
+"msg": 13,
+"width": 20
+},
+"src/main_segment/main_story.msg:17": {
+"line": 17,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:170": {
+"line": 2,
+"lines": 5,
+"msg": 13,
+"width": 20
+},
+"src/main_segment/main_story.msg:171": {
+"line": 3,
+"lines": 5,
+"msg": 13,
+"width": 20
+},
+"src/main_segment/main_story.msg:172": {
+"line": 4,
+"lines": 5,
+"msg": 13,
+"width": 20
+},
+"src/main_segment/main_story.msg:178": {
+"line": 0,
+"lines": 5,
+"msg": 15,
+"width": 19
+},
+"src/main_segment/main_story.msg:179": {
+"line": 1,
+"lines": 5,
+"msg": 15,
+"width": 19
+},
+"src/main_segment/main_story.msg:18": {
+"line": 18,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:180": {
+"line": 2,
+"lines": 5,
+"msg": 15,
+"width": 19
+},
+"src/main_segment/main_story.msg:181": {
+"line": 3,
+"lines": 5,
+"msg": 15,
+"width": 19
+},
+"src/main_segment/main_story.msg:182": {
+"line": 4,
+"lines": 5,
+"msg": 15,
+"width": 19
+},
+"src/main_segment/main_story.msg:187": {
+"line": 0,
+"lines": 3,
+"msg": 16,
+"width": 15
+},
+"src/main_segment/main_story.msg:188": {
+"line": 1,
+"lines": 3,
+"msg": 16,
+"width": 15
+},
+"src/main_segment/main_story.msg:189": {
+"line": 2,
+"lines": 3,
+"msg": 16,
+"width": 15
+},
+"src/main_segment/main_story.msg:19": {
+"line": 19,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:192": {
+"line": 0,
+"lines": 3,
+"msg": 18,
+"width": 19
+},
+"src/main_segment/main_story.msg:193": {
+"line": 1,
+"lines": 3,
+"msg": 18,
+"width": 19
+},
+"src/main_segment/main_story.msg:194": {
+"line": 2,
+"lines": 3,
+"msg": 18,
+"width": 19
+},
+"src/main_segment/main_story.msg:197": {
+"line": 0,
+"lines": 2,
+"msg": 19,
+"width": 22
+},
+"src/main_segment/main_story.msg:198": {
+"line": 1,
+"lines": 2,
+"msg": 19,
+"width": 22
+},
+"src/main_segment/main_story.msg:2": {
+"line": 2,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:20": {
+"line": 20,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:201": {
+"line": 0,
+"lines": 3,
+"msg": 20,
+"width": 20
+},
+"src/main_segment/main_story.msg:202": {
+"line": 1,
+"lines": 3,
+"msg": 20,
+"width": 20
+},
+"src/main_segment/main_story.msg:203": {
+"line": 2,
+"lines": 3,
+"msg": 20,
+"width": 20
+},
+"src/main_segment/main_story.msg:207": {
+"line": 0,
+"lines": 3,
+"msg": 21,
+"width": 17
+},
+"src/main_segment/main_story.msg:208": {
+"line": 1,
+"lines": 3,
+"msg": 21,
+"width": 17
+},
+"src/main_segment/main_story.msg:209": {
+"line": 2,
+"lines": 3,
+"msg": 21,
+"width": 17
+},
+"src/main_segment/main_story.msg:21": {
+"line": 21,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:212": {
+"line": 0,
+"lines": 4,
+"msg": 22,
+"width": 19
+},
+"src/main_segment/main_story.msg:213": {
+"line": 1,
+"lines": 4,
+"msg": 22,
+"width": 19
+},
+"src/main_segment/main_story.msg:214": {
+"line": 2,
+"lines": 4,
+"msg": 22,
+"width": 19
+},
+"src/main_segment/main_story.msg:215": {
+"line": 3,
+"lines": 4,
+"msg": 22,
+"width": 19
+},
+"src/main_segment/main_story.msg:22": {
+"line": 22,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:220": {
+"line": 0,
+"lines": 3,
+"msg": 23,
+"width": 22
+},
+"src/main_segment/main_story.msg:221": {
+"line": 1,
+"lines": 3,
+"msg": 23,
+"width": 22
+},
+"src/main_segment/main_story.msg:222": {
+"line": 2,
+"lines": 3,
+"msg": 23,
+"width": 22
+},
+"src/main_segment/main_story.msg:226": {
+"line": 0,
+"lines": 4,
+"msg": 24,
+"width": 21
+},
+"src/main_segment/main_story.msg:227": {
+"line": 1,
+"lines": 4,
+"msg": 24,
+"width": 21
+},
+"src/main_segment/main_story.msg:228": {
+"line": 2,
+"lines": 4,
+"msg": 24,
+"width": 21
+},
+"src/main_segment/main_story.msg:229": {
+"line": 3,
+"lines": 4,
+"msg": 24,
+"width": 21
+},
+"src/main_segment/main_story.msg:23": {
+"line": 23,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:234": {
+"line": 0,
+"lines": 3,
+"msg": 26,
+"width": 22
+},
+"src/main_segment/main_story.msg:235": {
+"line": 1,
+"lines": 3,
+"msg": 26,
+"width": 22
+},
+"src/main_segment/main_story.msg:236": {
+"line": 2,
+"lines": 3,
+"msg": 26,
+"width": 22
+},
+"src/main_segment/main_story.msg:24": {
+"line": 24,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:240": {
+"line": 0,
+"lines": 3,
+"msg": 27,
+"width": 19
+},
+"src/main_segment/main_story.msg:241": {
+"line": 1,
+"lines": 3,
+"msg": 27,
+"width": 19
+},
+"src/main_segment/main_story.msg:242": {
+"line": 2,
+"lines": 3,
+"msg": 27,
+"width": 19
+},
+"src/main_segment/main_story.msg:246": {
+"line": 0,
+"lines": 5,
+"msg": 29,
+"width": 18
+},
+"src/main_segment/main_story.msg:247": {
+"line": 1,
+"lines": 5,
+"msg": 29,
+"width": 18
+},
+"src/main_segment/main_story.msg:248": {
+"line": 2,
+"lines": 5,
+"msg": 29,
+"width": 18
+},
+"src/main_segment/main_story.msg:249": {
+"line": 3,
+"lines": 5,
+"msg": 29,
+"width": 18
+},
+"src/main_segment/main_story.msg:25": {
+"line": 25,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:250": {
+"line": 4,
+"lines": 5,
+"msg": 29,
+"width": 18
+},
+"src/main_segment/main_story.msg:256": {
+"line": 0,
+"lines": 3,
+"msg": 30,
+"width": 19
+},
+"src/main_segment/main_story.msg:257": {
+"line": 1,
+"lines": 3,
+"msg": 30,
+"width": 19
+},
+"src/main_segment/main_story.msg:258": {
+"line": 2,
+"lines": 3,
+"msg": 30,
+"width": 19
+},
+"src/main_segment/main_story.msg:26": {
+"line": 26,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:262": {
+"line": 0,
+"lines": 4,
+"msg": 32,
+"width": 19
+},
+"src/main_segment/main_story.msg:263": {
+"line": 1,
+"lines": 4,
+"msg": 32,
+"width": 19
+},
+"src/main_segment/main_story.msg:264": {
+"line": 2,
+"lines": 4,
+"msg": 32,
+"width": 19
+},
+"src/main_segment/main_story.msg:265": {
+"line": 3,
+"lines": 4,
+"msg": 32,
+"width": 19
+},
+"src/main_segment/main_story.msg:27": {
+"line": 27,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:270": {
+"line": 0,
+"lines": 3,
+"msg": 33,
+"width": 19
+},
+"src/main_segment/main_story.msg:271": {
+"line": 1,
+"lines": 3,
+"msg": 33,
+"width": 19
+},
+"src/main_segment/main_story.msg:272": {
+"line": 2,
+"lines": 3,
+"msg": 33,
+"width": 19
+},
+"src/main_segment/main_story.msg:275": {
+"line": 0,
+"lines": 4,
+"msg": 34,
+"width": 15
+},
+"src/main_segment/main_story.msg:276": {
+"line": 1,
+"lines": 4,
+"msg": 34,
+"width": 15
+},
+"src/main_segment/main_story.msg:277": {
+"line": 2,
+"lines": 4,
+"msg": 34,
+"width": 15
+},
+"src/main_segment/main_story.msg:278": {
+"line": 3,
+"lines": 4,
+"msg": 34,
+"width": 15
+},
+"src/main_segment/main_story.msg:28": {
+"line": 28,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:283": {
+"line": 0,
+"lines": 3,
+"msg": 35,
+"width": 18
+},
+"src/main_segment/main_story.msg:284": {
+"line": 1,
+"lines": 3,
+"msg": 35,
+"width": 18
+},
+"src/main_segment/main_story.msg:285": {
+"line": 2,
+"lines": 3,
+"msg": 35,
+"width": 18
+},
+"src/main_segment/main_story.msg:289": {
+"line": 0,
+"lines": 3,
+"msg": 36,
+"width": 15
+},
+"src/main_segment/main_story.msg:29": {
+"line": 29,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:290": {
+"line": 1,
+"lines": 3,
+"msg": 36,
+"width": 15
+},
+"src/main_segment/main_story.msg:291": {
+"line": 2,
+"lines": 3,
+"msg": 36,
+"width": 15
+},
+"src/main_segment/main_story.msg:294": {
+"line": 0,
+"lines": 5,
+"msg": 37,
+"width": 19
+},
+"src/main_segment/main_story.msg:295": {
+"line": 1,
+"lines": 5,
+"msg": 37,
+"width": 19
+},
+"src/main_segment/main_story.msg:296": {
+"line": 2,
+"lines": 5,
+"msg": 37,
+"width": 19
+},
+"src/main_segment/main_story.msg:297": {
+"line": 3,
+"lines": 5,
+"msg": 37,
+"width": 19
+},
+"src/main_segment/main_story.msg:298": {
+"line": 4,
+"lines": 5,
+"msg": 37,
+"width": 19
+},
+"src/main_segment/main_story.msg:3": {
+"line": 3,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:30": {
+"line": 30,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:304": {
+"line": 0,
+"lines": 2,
+"msg": 39,
+"width": 14
+},
+"src/main_segment/main_story.msg:305": {
+"line": 1,
+"lines": 2,
+"msg": 39,
+"width": 14
+},
+"src/main_segment/main_story.msg:308": {
+"line": 0,
+"lines": 3,
+"msg": 40,
+"width": 19
+},
+"src/main_segment/main_story.msg:309": {
+"line": 1,
+"lines": 3,
+"msg": 40,
+"width": 19
+},
+"src/main_segment/main_story.msg:31": {
+"line": 31,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:310": {
+"line": 2,
+"lines": 3,
+"msg": 40,
+"width": 19
+},
+"src/main_segment/main_story.msg:313": {
+"line": 0,
+"lines": 3,
+"msg": 41,
+"width": 18
+},
+"src/main_segment/main_story.msg:314": {
+"line": 1,
+"lines": 3,
+"msg": 41,
+"width": 18
+},
+"src/main_segment/main_story.msg:315": {
+"line": 2,
+"lines": 3,
+"msg": 41,
+"width": 18
+},
+"src/main_segment/main_story.msg:319": {
+"line": 0,
+"lines": 5,
+"msg": 42,
+"width": 19
+},
+"src/main_segment/main_story.msg:32": {
+"line": 32,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:320": {
+"line": 1,
+"lines": 5,
+"msg": 42,
+"width": 19
+},
+"src/main_segment/main_story.msg:321": {
+"line": 2,
+"lines": 5,
+"msg": 42,
+"width": 19
+},
+"src/main_segment/main_story.msg:322": {
+"line": 3,
+"lines": 5,
+"msg": 42,
+"width": 19
+},
+"src/main_segment/main_story.msg:323": {
+"line": 4,
+"lines": 5,
+"msg": 42,
+"width": 19
+},
+"src/main_segment/main_story.msg:328": {
+"line": 0,
+"lines": 3,
+"msg": 44,
+"width": 19
+},
+"src/main_segment/main_story.msg:329": {
+"line": 1,
+"lines": 3,
+"msg": 44,
+"width": 19
+},
+"src/main_segment/main_story.msg:33": {
+"line": 33,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:330": {
+"line": 2,
+"lines": 3,
+"msg": 44,
+"width": 19
+},
+"src/main_segment/main_story.msg:334": {
+"line": 0,
+"lines": 3,
+"msg": 45,
+"width": 19
+},
+"src/main_segment/main_story.msg:335": {
+"line": 1,
+"lines": 3,
+"msg": 45,
+"width": 19
+},
+"src/main_segment/main_story.msg:336": {
+"line": 2,
+"lines": 3,
+"msg": 45,
+"width": 19
+},
+"src/main_segment/main_story.msg:339": {
+"line": 0,
+"lines": 3,
+"msg": 46,
+"width": 6
+},
+"src/main_segment/main_story.msg:34": {
+"line": 34,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:340": {
+"line": 1,
+"lines": 3,
+"msg": 46,
+"width": 6
+},
+"src/main_segment/main_story.msg:341": {
+"line": 2,
+"lines": 3,
+"msg": 46,
+"width": 6
+},
+"src/main_segment/main_story.msg:345": {
+"line": 0,
+"lines": 2,
+"msg": 47,
+"width": 19
+},
+"src/main_segment/main_story.msg:346": {
+"line": 1,
+"lines": 2,
+"msg": 47,
+"width": 19
+},
+"src/main_segment/main_story.msg:349": {
+"line": 0,
+"lines": 5,
+"msg": 48,
+"width": 22
+},
+"src/main_segment/main_story.msg:35": {
+"line": 35,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:350": {
+"line": 1,
+"lines": 5,
+"msg": 48,
+"width": 22
+},
+"src/main_segment/main_story.msg:351": {
+"line": 2,
+"lines": 5,
+"msg": 48,
+"width": 22
+},
+"src/main_segment/main_story.msg:352": {
+"line": 3,
+"lines": 5,
+"msg": 48,
+"width": 22
+},
+"src/main_segment/main_story.msg:353": {
+"line": 4,
+"lines": 5,
+"msg": 48,
+"width": 22
+},
+"src/main_segment/main_story.msg:358": {
+"line": 0,
+"lines": 3,
+"msg": 50,
+"width": 20
+},
+"src/main_segment/main_story.msg:359": {
+"line": 1,
+"lines": 3,
+"msg": 50,
+"width": 20
+},
+"src/main_segment/main_story.msg:36": {
+"line": 36,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:360": {
+"line": 2,
+"lines": 3,
+"msg": 50,
+"width": 20
+},
+"src/main_segment/main_story.msg:363": {
+"line": 0,
+"lines": 3,
+"msg": 51,
+"width": 22
+},
+"src/main_segment/main_story.msg:364": {
+"line": 1,
+"lines": 3,
+"msg": 51,
+"width": 22
+},
+"src/main_segment/main_story.msg:365": {
+"line": 2,
+"lines": 3,
+"msg": 51,
+"width": 22
+},
+"src/main_segment/main_story.msg:368": {
+"line": 0,
+"lines": 4,
+"msg": 52,
+"width": 17
+},
+"src/main_segment/main_story.msg:369": {
+"line": 1,
+"lines": 4,
+"msg": 52,
+"width": 17
+},
+"src/main_segment/main_story.msg:37": {
+"line": 37,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:370": {
+"line": 2,
+"lines": 4,
+"msg": 52,
+"width": 17
+},
+"src/main_segment/main_story.msg:371": {
+"line": 3,
+"lines": 4,
+"msg": 52,
+"width": 17
+},
+"src/main_segment/main_story.msg:376": {
+"line": 0,
+"lines": 3,
+"msg": 54,
+"width": 22
+},
+"src/main_segment/main_story.msg:377": {
+"line": 1,
+"lines": 3,
+"msg": 54,
+"width": 22
+},
+"src/main_segment/main_story.msg:378": {
+"line": 2,
+"lines": 3,
+"msg": 54,
+"width": 22
+},
+"src/main_segment/main_story.msg:38": {
+"line": 38,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:381": {
+"line": 0,
+"lines": 3,
+"msg": 55,
+"width": 16
+},
+"src/main_segment/main_story.msg:382": {
+"line": 1,
+"lines": 3,
+"msg": 55,
+"width": 16
+},
+"src/main_segment/main_story.msg:383": {
+"line": 2,
+"lines": 3,
+"msg": 55,
+"width": 16
+},
+"src/main_segment/main_story.msg:386": {
+"line": 0,
+"lines": 3,
+"msg": 56,
+"width": 19
+},
+"src/main_segment/main_story.msg:387": {
+"line": 1,
+"lines": 3,
+"msg": 56,
+"width": 19
+},
+"src/main_segment/main_story.msg:388": {
+"line": 2,
+"lines": 3,
+"msg": 56,
+"width": 19
+},
+"src/main_segment/main_story.msg:39": {
+"line": 39,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:391": {
+"line": 0,
+"lines": 3,
+"msg": 57,
+"width": 6
+},
+"src/main_segment/main_story.msg:392": {
+"line": 1,
+"lines": 3,
+"msg": 57,
+"width": 6
+},
+"src/main_segment/main_story.msg:393": {
+"line": 2,
+"lines": 3,
+"msg": 57,
+"width": 6
+},
+"src/main_segment/main_story.msg:397": {
+"line": 0,
+"lines": 3,
+"msg": 59,
+"width": 23
+},
+"src/main_segment/main_story.msg:398": {
+"line": 1,
+"lines": 3,
+"msg": 59,
+"width": 23
+},
+"src/main_segment/main_story.msg:399": {
+"line": 2,
+"lines": 3,
+"msg": 59,
+"width": 23
+},
+"src/main_segment/main_story.msg:4": {
+"line": 4,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:40": {
+"line": 40,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:403": {
+"line": 0,
+"lines": 3,
+"msg": 60,
+"width": 15
+},
+"src/main_segment/main_story.msg:404": {
+"line": 1,
+"lines": 3,
+"msg": 60,
+"width": 15
+},
+"src/main_segment/main_story.msg:405": {
+"line": 2,
+"lines": 3,
+"msg": 60,
+"width": 15
+},
+"src/main_segment/main_story.msg:409": {
+"line": 0,
+"lines": 5,
+"msg": 61,
+"width": 13
+},
+"src/main_segment/main_story.msg:41": {
+"line": 41,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:410": {
+"line": 1,
+"lines": 5,
+"msg": 61,
+"width": 13
+},
+"src/main_segment/main_story.msg:411": {
+"line": 2,
+"lines": 5,
+"msg": 61,
+"width": 13
+},
+"src/main_segment/main_story.msg:412": {
+"line": 3,
+"lines": 5,
+"msg": 61,
+"width": 13
+},
+"src/main_segment/main_story.msg:413": {
+"line": 4,
+"lines": 5,
+"msg": 61,
+"width": 13
+},
+"src/main_segment/main_story.msg:418": {
+"line": 0,
+"lines": 3,
+"msg": 63,
+"width": 19
+},
+"src/main_segment/main_story.msg:419": {
+"line": 1,
+"lines": 3,
+"msg": 63,
+"width": 19
+},
+"src/main_segment/main_story.msg:42": {
+"line": 42,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:420": {
+"line": 2,
+"lines": 3,
+"msg": 63,
+"width": 19
+},
+"src/main_segment/main_story.msg:423": {
+"line": 0,
+"lines": 3,
+"msg": 64,
+"width": 13
+},
+"src/main_segment/main_story.msg:424": {
+"line": 1,
+"lines": 3,
+"msg": 64,
+"width": 13
+},
+"src/main_segment/main_story.msg:425": {
+"line": 2,
+"lines": 3,
+"msg": 64,
+"width": 13
+},
+"src/main_segment/main_story.msg:428": {
+"line": 0,
+"lines": 3,
+"msg": 65,
+"width": 19
+},
+"src/main_segment/main_story.msg:429": {
+"line": 1,
+"lines": 3,
+"msg": 65,
+"width": 19
+},
+"src/main_segment/main_story.msg:43": {
+"line": 43,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:430": {
+"line": 2,
+"lines": 3,
+"msg": 65,
+"width": 19
+},
+"src/main_segment/main_story.msg:433": {
+"line": 0,
+"lines": 3,
+"msg": 66,
+"width": 8
+},
+"src/main_segment/main_story.msg:434": {
+"line": 1,
+"lines": 3,
+"msg": 66,
+"width": 8
+},
+"src/main_segment/main_story.msg:435": {
+"line": 2,
+"lines": 3,
+"msg": 66,
+"width": 8
+},
+"src/main_segment/main_story.msg:439": {
+"line": 0,
+"lines": 3,
+"msg": 68,
+"width": 19
+},
+"src/main_segment/main_story.msg:44": {
+"line": 44,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:440": {
+"line": 1,
+"lines": 3,
+"msg": 68,
+"width": 19
+},
+"src/main_segment/main_story.msg:441": {
+"line": 2,
+"lines": 3,
+"msg": 68,
+"width": 19
+},
+"src/main_segment/main_story.msg:444": {
+"line": 0,
+"lines": 3,
+"msg": 69,
+"width": 10
+},
+"src/main_segment/main_story.msg:445": {
+"line": 1,
+"lines": 3,
+"msg": 69,
+"width": 10
+},
+"src/main_segment/main_story.msg:446": {
+"line": 2,
+"lines": 3,
+"msg": 69,
+"width": 10
+},
+"src/main_segment/main_story.msg:449": {
+"line": 0,
+"lines": 3,
+"msg": 70,
+"width": 18
+},
+"src/main_segment/main_story.msg:45": {
+"line": 45,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:450": {
+"line": 1,
+"lines": 3,
+"msg": 70,
+"width": 18
+},
+"src/main_segment/main_story.msg:451": {
+"line": 2,
+"lines": 3,
+"msg": 70,
+"width": 18
+},
+"src/main_segment/main_story.msg:454": {
+"line": 0,
+"lines": 4,
+"msg": 71,
+"width": 15
+},
+"src/main_segment/main_story.msg:455": {
+"line": 1,
+"lines": 4,
+"msg": 71,
+"width": 15
+},
+"src/main_segment/main_story.msg:456": {
+"line": 2,
+"lines": 4,
+"msg": 71,
+"width": 15
+},
+"src/main_segment/main_story.msg:457": {
+"line": 3,
+"lines": 4,
+"msg": 71,
+"width": 15
+},
+"src/main_segment/main_story.msg:46": {
+"line": 46,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:462": {
+"line": 0,
+"lines": 3,
+"msg": 73,
+"width": 20
+},
+"src/main_segment/main_story.msg:463": {
+"line": 1,
+"lines": 3,
+"msg": 73,
+"width": 20
+},
+"src/main_segment/main_story.msg:464": {
+"line": 2,
+"lines": 3,
+"msg": 73,
+"width": 20
+},
+"src/main_segment/main_story.msg:467": {
+"line": 0,
+"lines": 3,
+"msg": 74,
+"width": 16
+},
+"src/main_segment/main_story.msg:468": {
+"line": 1,
+"lines": 3,
+"msg": 74,
+"width": 16
+},
+"src/main_segment/main_story.msg:469": {
+"line": 2,
+"lines": 3,
+"msg": 74,
+"width": 16
+},
+"src/main_segment/main_story.msg:47": {
+"line": 47,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:472": {
+"line": 0,
+"lines": 4,
+"msg": 75,
+"width": 18
+},
+"src/main_segment/main_story.msg:473": {
+"line": 1,
+"lines": 4,
+"msg": 75,
+"width": 18
+},
+"src/main_segment/main_story.msg:474": {
+"line": 2,
+"lines": 4,
+"msg": 75,
+"width": 18
+},
+"src/main_segment/main_story.msg:475": {
+"line": 3,
+"lines": 4,
+"msg": 75,
+"width": 18
+},
+"src/main_segment/main_story.msg:48": {
+"line": 48,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:480": {
+"line": 0,
+"lines": 4,
+"msg": 76,
+"width": 16
+},
+"src/main_segment/main_story.msg:481": {
+"line": 1,
+"lines": 4,
+"msg": 76,
+"width": 16
+},
+"src/main_segment/main_story.msg:482": {
+"line": 2,
+"lines": 4,
+"msg": 76,
+"width": 16
+},
+"src/main_segment/main_story.msg:483": {
+"line": 3,
+"lines": 4,
+"msg": 76,
+"width": 16
+},
+"src/main_segment/main_story.msg:488": {
+"line": 0,
+"lines": 3,
+"msg": 78,
+"width": 16
+},
+"src/main_segment/main_story.msg:489": {
+"line": 1,
+"lines": 3,
+"msg": 78,
+"width": 16
+},
+"src/main_segment/main_story.msg:49": {
+"line": 49,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:490": {
+"line": 2,
+"lines": 3,
+"msg": 78,
+"width": 16
+},
+"src/main_segment/main_story.msg:493": {
+"line": 0,
+"lines": 1,
+"msg": 79,
+"width": 15
+},
+"src/main_segment/main_story.msg:495": {
+"line": 0,
+"lines": 3,
+"msg": 80,
+"width": 7
+},
+"src/main_segment/main_story.msg:496": {
+"line": 1,
+"lines": 3,
+"msg": 80,
+"width": 7
+},
+"src/main_segment/main_story.msg:497": {
+"line": 2,
+"lines": 3,
+"msg": 80,
+"width": 7
+},
+"src/main_segment/main_story.msg:5": {
+"line": 5,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:50": {
+"line": 50,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:501": {
+"line": 0,
+"lines": 3,
+"msg": 82,
+"width": 20
+},
+"src/main_segment/main_story.msg:502": {
+"line": 1,
+"lines": 3,
+"msg": 82,
+"width": 20
+},
+"src/main_segment/main_story.msg:503": {
+"line": 2,
+"lines": 3,
+"msg": 82,
+"width": 20
+},
+"src/main_segment/main_story.msg:507": {
+"line": 0,
+"lines": 4,
+"msg": 83,
+"width": 21
+},
+"src/main_segment/main_story.msg:508": {
+"line": 1,
+"lines": 4,
+"msg": 83,
+"width": 21
+},
+"src/main_segment/main_story.msg:509": {
+"line": 2,
+"lines": 4,
+"msg": 83,
+"width": 21
+},
+"src/main_segment/main_story.msg:51": {
+"line": 51,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:510": {
+"line": 3,
+"lines": 4,
+"msg": 83,
+"width": 21
+},
+"src/main_segment/main_story.msg:515": {
+"line": 0,
+"lines": 3,
+"msg": 84,
+"width": 18
+},
+"src/main_segment/main_story.msg:516": {
+"line": 1,
+"lines": 3,
+"msg": 84,
+"width": 18
+},
+"src/main_segment/main_story.msg:517": {
+"line": 2,
+"lines": 3,
+"msg": 84,
+"width": 18
+},
+"src/main_segment/main_story.msg:52": {
+"line": 52,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:520": {
+"line": 0,
+"lines": 3,
+"msg": 85,
+"width": 16
+},
+"src/main_segment/main_story.msg:521": {
+"line": 1,
+"lines": 3,
+"msg": 85,
+"width": 16
+},
+"src/main_segment/main_story.msg:522": {
+"line": 2,
+"lines": 3,
+"msg": 85,
+"width": 16
+},
+"src/main_segment/main_story.msg:526": {
+"line": 0,
+"lines": 3,
+"msg": 88,
+"width": 20
+},
+"src/main_segment/main_story.msg:527": {
+"line": 1,
+"lines": 3,
+"msg": 88,
+"width": 20
+},
+"src/main_segment/main_story.msg:528": {
+"line": 2,
+"lines": 3,
+"msg": 88,
+"width": 20
+},
+"src/main_segment/main_story.msg:53": {
+"line": 53,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:531": {
+"line": 0,
+"lines": 3,
+"msg": 90,
+"width": 18
+},
+"src/main_segment/main_story.msg:532": {
+"line": 1,
+"lines": 3,
+"msg": 90,
+"width": 18
+},
+"src/main_segment/main_story.msg:533": {
+"line": 2,
+"lines": 3,
+"msg": 90,
+"width": 18
+},
+"src/main_segment/main_story.msg:537": {
+"line": 0,
+"lines": 3,
+"msg": 92,
+"width": 20
+},
+"src/main_segment/main_story.msg:538": {
+"line": 1,
+"lines": 3,
+"msg": 92,
+"width": 20
+},
+"src/main_segment/main_story.msg:539": {
+"line": 2,
+"lines": 3,
+"msg": 92,
+"width": 20
+},
+"src/main_segment/main_story.msg:54": {
+"line": 54,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:543": {
+"line": 0,
+"lines": 5,
+"msg": 93,
+"width": 16
+},
+"src/main_segment/main_story.msg:544": {
+"line": 1,
+"lines": 5,
+"msg": 93,
+"width": 16
+},
+"src/main_segment/main_story.msg:545": {
+"line": 2,
+"lines": 5,
+"msg": 93,
+"width": 16
+},
+"src/main_segment/main_story.msg:546": {
+"line": 3,
+"lines": 5,
+"msg": 93,
+"width": 16
+},
+"src/main_segment/main_story.msg:547": {
+"line": 4,
+"lines": 5,
+"msg": 93,
+"width": 16
+},
+"src/main_segment/main_story.msg:55": {
+"line": 55,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:552": {
+"line": 0,
+"lines": 3,
+"msg": 95,
+"width": 19
+},
+"src/main_segment/main_story.msg:553": {
+"line": 1,
+"lines": 3,
+"msg": 95,
+"width": 19
+},
+"src/main_segment/main_story.msg:554": {
+"line": 2,
+"lines": 3,
+"msg": 95,
+"width": 19
+},
+"src/main_segment/main_story.msg:558": {
+"line": 0,
+"lines": 3,
+"msg": 96,
+"width": 17
+},
+"src/main_segment/main_story.msg:559": {
+"line": 1,
+"lines": 3,
+"msg": 96,
+"width": 17
+},
+"src/main_segment/main_story.msg:56": {
+"line": 56,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:560": {
+"line": 2,
+"lines": 3,
+"msg": 96,
+"width": 17
+},
+"src/main_segment/main_story.msg:563": {
+"line": 0,
+"lines": 3,
+"msg": 97,
+"width": 13
+},
+"src/main_segment/main_story.msg:564": {
+"line": 1,
+"lines": 3,
+"msg": 97,
+"width": 13
+},
+"src/main_segment/main_story.msg:565": {
+"line": 2,
+"lines": 3,
+"msg": 97,
+"width": 13
+},
+"src/main_segment/main_story.msg:569": {
+"line": 0,
+"lines": 3,
+"msg": 99,
+"width": 21
+},
+"src/main_segment/main_story.msg:57": {
+"line": 57,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:570": {
+"line": 1,
+"lines": 3,
+"msg": 99,
+"width": 21
+},
+"src/main_segment/main_story.msg:571": {
+"line": 2,
+"lines": 3,
+"msg": 99,
+"width": 21
+},
+"src/main_segment/main_story.msg:575": {
+"line": 0,
+"lines": 3,
+"msg": 100,
+"width": 22
+},
+"src/main_segment/main_story.msg:576": {
+"line": 1,
+"lines": 3,
+"msg": 100,
+"width": 22
+},
+"src/main_segment/main_story.msg:577": {
+"line": 2,
+"lines": 3,
+"msg": 100,
+"width": 22
+},
+"src/main_segment/main_story.msg:58": {
+"line": 58,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:581": {
+"line": 0,
+"lines": 3,
+"msg": 101,
+"width": 19
+},
+"src/main_segment/main_story.msg:582": {
+"line": 1,
+"lines": 3,
+"msg": 101,
+"width": 19
+},
+"src/main_segment/main_story.msg:583": {
+"line": 2,
+"lines": 3,
+"msg": 101,
+"width": 19
+},
+"src/main_segment/main_story.msg:587": {
+"line": 0,
+"lines": 3,
+"msg": 103,
+"width": 22
+},
+"src/main_segment/main_story.msg:588": {
+"line": 1,
+"lines": 3,
+"msg": 103,
+"width": 22
+},
+"src/main_segment/main_story.msg:589": {
+"line": 2,
+"lines": 3,
+"msg": 103,
+"width": 22
+},
+"src/main_segment/main_story.msg:59": {
+"line": 59,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:593": {
+"line": 0,
+"lines": 3,
+"msg": 104,
+"width": 20
+},
+"src/main_segment/main_story.msg:594": {
+"line": 1,
+"lines": 3,
+"msg": 104,
+"width": 20
+},
+"src/main_segment/main_story.msg:595": {
+"line": 2,
+"lines": 3,
+"msg": 104,
+"width": 20
+},
+"src/main_segment/main_story.msg:599": {
+"line": 0,
+"lines": 3,
+"msg": 105,
+"width": 18
+},
+"src/main_segment/main_story.msg:6": {
+"line": 6,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:60": {
+"line": 60,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:600": {
+"line": 1,
+"lines": 3,
+"msg": 105,
+"width": 18
+},
+"src/main_segment/main_story.msg:601": {
+"line": 2,
+"lines": 3,
+"msg": 105,
+"width": 18
+},
+"src/main_segment/main_story.msg:604": {
+"line": 0,
+"lines": 4,
+"msg": 107,
+"width": 18
+},
+"src/main_segment/main_story.msg:605": {
+"line": 1,
+"lines": 4,
+"msg": 107,
+"width": 18
+},
+"src/main_segment/main_story.msg:606": {
+"line": 2,
+"lines": 4,
+"msg": 107,
+"width": 18
+},
+"src/main_segment/main_story.msg:607": {
+"line": 3,
+"lines": 4,
+"msg": 107,
+"width": 18
+},
+"src/main_segment/main_story.msg:61": {
+"line": 61,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:612": {
+"line": 0,
+"lines": 4,
+"msg": 108,
+"width": 14
+},
+"src/main_segment/main_story.msg:613": {
+"line": 1,
+"lines": 4,
+"msg": 108,
+"width": 14
+},
+"src/main_segment/main_story.msg:614": {
+"line": 2,
+"lines": 4,
+"msg": 108,
+"width": 14
+},
+"src/main_segment/main_story.msg:615": {
+"line": 3,
+"lines": 4,
+"msg": 108,
+"width": 14
+},
+"src/main_segment/main_story.msg:62": {
+"line": 62,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:620": {
+"line": 0,
+"lines": 3,
+"msg": 109,
+"width": 14
+},
+"src/main_segment/main_story.msg:621": {
+"line": 1,
+"lines": 3,
+"msg": 109,
+"width": 14
+},
+"src/main_segment/main_story.msg:622": {
+"line": 2,
+"lines": 3,
+"msg": 109,
+"width": 14
+},
+"src/main_segment/main_story.msg:626": {
+"line": 0,
+"lines": 4,
+"msg": 110,
+"width": 15
+},
+"src/main_segment/main_story.msg:627": {
+"line": 1,
+"lines": 4,
+"msg": 110,
+"width": 15
+},
+"src/main_segment/main_story.msg:628": {
+"line": 2,
+"lines": 4,
+"msg": 110,
+"width": 15
+},
+"src/main_segment/main_story.msg:629": {
+"line": 3,
+"lines": 4,
+"msg": 110,
+"width": 15
+},
+"src/main_segment/main_story.msg:63": {
+"line": 63,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:634": {
+"line": 0,
+"lines": 3,
+"msg": 111,
+"width": 20
+},
+"src/main_segment/main_story.msg:635": {
+"line": 1,
+"lines": 3,
+"msg": 111,
+"width": 20
+},
+"src/main_segment/main_story.msg:636": {
+"line": 2,
+"lines": 3,
+"msg": 111,
+"width": 20
+},
+"src/main_segment/main_story.msg:64": {
+"line": 64,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:640": {
+"line": 0,
+"lines": 3,
+"msg": 112,
+"width": 18
+},
+"src/main_segment/main_story.msg:641": {
+"line": 1,
+"lines": 3,
+"msg": 112,
+"width": 18
+},
+"src/main_segment/main_story.msg:642": {
+"line": 2,
+"lines": 3,
+"msg": 112,
+"width": 18
+},
+"src/main_segment/main_story.msg:645": {
+"line": 0,
+"lines": 2,
+"msg": 114,
+"width": 21
+},
+"src/main_segment/main_story.msg:646": {
+"line": 1,
+"lines": 2,
+"msg": 114,
+"width": 21
+},
+"src/main_segment/main_story.msg:649": {
+"line": 0,
+"lines": 3,
+"msg": 115,
+"width": 19
+},
+"src/main_segment/main_story.msg:65": {
+"line": 65,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:650": {
+"line": 1,
+"lines": 3,
+"msg": 115,
+"width": 19
+},
+"src/main_segment/main_story.msg:651": {
+"line": 2,
+"lines": 3,
+"msg": 115,
+"width": 19
+},
+"src/main_segment/main_story.msg:654": {
+"line": 0,
+"lines": 3,
+"msg": 116,
+"width": 13
+},
+"src/main_segment/main_story.msg:655": {
+"line": 1,
+"lines": 3,
+"msg": 116,
+"width": 13
+},
+"src/main_segment/main_story.msg:656": {
+"line": 2,
+"lines": 3,
+"msg": 116,
+"width": 13
+},
+"src/main_segment/main_story.msg:659": {
+"line": 0,
+"lines": 3,
+"msg": 118,
+"width": 18
+},
+"src/main_segment/main_story.msg:66": {
+"line": 66,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:660": {
+"line": 1,
+"lines": 3,
+"msg": 118,
+"width": 18
+},
+"src/main_segment/main_story.msg:661": {
+"line": 2,
+"lines": 3,
+"msg": 118,
+"width": 18
+},
+"src/main_segment/main_story.msg:664": {
+"line": 0,
+"lines": 5,
+"msg": 119,
+"width": 13
+},
+"src/main_segment/main_story.msg:665": {
+"line": 1,
+"lines": 5,
+"msg": 119,
+"width": 13
+},
+"src/main_segment/main_story.msg:666": {
+"line": 2,
+"lines": 5,
+"msg": 119,
+"width": 13
+},
+"src/main_segment/main_story.msg:667": {
+"line": 3,
+"lines": 5,
+"msg": 119,
+"width": 13
+},
+"src/main_segment/main_story.msg:668": {
+"line": 4,
+"lines": 5,
+"msg": 119,
+"width": 13
+},
+"src/main_segment/main_story.msg:67": {
+"line": 67,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:673": {
+"line": 0,
+"lines": 3,
+"msg": 120,
+"width": 20
+},
+"src/main_segment/main_story.msg:674": {
+"line": 1,
+"lines": 3,
+"msg": 120,
+"width": 20
+},
+"src/main_segment/main_story.msg:675": {
+"line": 2,
+"lines": 3,
+"msg": 120,
+"width": 20
+},
+"src/main_segment/main_story.msg:678": {
+"line": 0,
+"lines": 3,
+"msg": 122,
+"width": 18
+},
+"src/main_segment/main_story.msg:679": {
+"line": 1,
+"lines": 3,
+"msg": 122,
+"width": 18
+},
+"src/main_segment/main_story.msg:68": {
+"line": 68,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:680": {
+"line": 2,
+"lines": 3,
+"msg": 122,
+"width": 18
+},
+"src/main_segment/main_story.msg:683": {
+"line": 0,
+"lines": 1,
+"msg": 123,
+"width": 8
+},
+"src/main_segment/main_story.msg:685": {
+"line": 0,
+"lines": 4,
+"msg": 125,
+"width": 15
+},
+"src/main_segment/main_story.msg:686": {
+"line": 1,
+"lines": 4,
+"msg": 125,
+"width": 15
+},
+"src/main_segment/main_story.msg:687": {
+"line": 2,
+"lines": 4,
+"msg": 125,
+"width": 15
+},
+"src/main_segment/main_story.msg:688": {
+"line": 3,
+"lines": 4,
+"msg": 125,
+"width": 15
+},
+"src/main_segment/main_story.msg:69": {
+"line": 69,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:693": {
+"line": 0,
+"lines": 3,
+"msg": 126,
+"width": 22
+},
+"src/main_segment/main_story.msg:694": {
+"line": 1,
+"lines": 3,
+"msg": 126,
+"width": 22
+},
+"src/main_segment/main_story.msg:695": {
+"line": 2,
+"lines": 3,
+"msg": 126,
+"width": 22
+},
+"src/main_segment/main_story.msg:7": {
+"line": 7,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:70": {
+"line": 70,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:71": {
+"line": 71,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:72": {
+"line": 72,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:73": {
+"line": 73,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:74": {
+"line": 74,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:75": {
+"line": 75,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:76": {
+"line": 76,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:77": {
+"line": 77,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:78": {
+"line": 78,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:79": {
+"line": 79,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:8": {
+"line": 8,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:80": {
+"line": 80,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:81": {
+"line": 81,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:82": {
+"line": 82,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:84": {
+"line": 83,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:85": {
+"line": 84,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:86": {
+"line": 85,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:87": {
+"line": 86,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:88": {
+"line": 87,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:89": {
+"line": 88,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:9": {
+"line": 9,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:90": {
+"line": 89,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:91": {
+"line": 90,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:92": {
+"line": 91,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:93": {
+"line": 92,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:94": {
+"line": 93,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:95": {
+"line": 94,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:96": {
+"line": 95,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:97": {
+"line": 96,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:98": {
+"line": 97,
+"lines": 104,
+"msg": 0,
+"width": 24
+},
+"src/main_segment/main_story.msg:99": {
+"line": 98,
+"lines": 104,
+"msg": 0,
+"width": 24
+}
+}

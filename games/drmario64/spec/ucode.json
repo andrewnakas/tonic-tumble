@@ -1,0 +1,9 @@
+{
+ "note": "RSP microcode as structural facts only: family, version, flags and segment sizes. The build writes CRUCODE1 placeholder stubs (cleanroom.ucode); no retail microcode is used. Needs an emulator core patched for the tags (n64cleanrecomp ports/emu/ucode-tags).",
+ "ucode": [
+  {"name": "rspboot", "family": "boot", "text": 208, "files": {"text": "rsp/rspboot.textbin.bin"}},
+  {"name": "aspMain", "family": "aspmain", "text": 3616, "data": 704, "files": {"text": "rsp/aspMain.textbin.bin", "data": "rsp/aspMain.databin.bin"}},
+  {"name": "f3dex2", "family": "f3dex2", "version": "2.08", "flags": ["fifo"], "text": 5008, "data": 1056, "files": {"text": "rsp/f3dex2.textbin.bin", "data": "rsp/f3dex2.databin.bin"}},
+  {"name": "s2dex", "family": "s2dex", "version": "1.07", "flags": ["fifo"], "text": 6128, "data": 960, "files": {"text": "rsp/s2dex.textbin.bin", "data": "rsp/s2dex.databin.bin"}}
+ ]
+}
